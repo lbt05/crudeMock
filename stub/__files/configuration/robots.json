@@ -1,0 +1,97 @@
+[
+    {
+        "id": "38R0sp41M8QZcHLRrKyXMT",
+        "robotsUrl": "https://www.petcircle.com.au/my-cart",
+        "content": "noindex, nofollow"
+    },
+    {
+        "robotsUrl": "https://www.petcircle.com.au/my-checkout",
+        "content": "noindex, nofollow",
+        "id": "5caLEDXim37ONBi0fgje5V"
+    },
+    {
+        "robotsUrl": "https://www.petcircle.com.au/order-management",
+        "content": "noindex,nofollow",
+        "id": "1S8vEyKyxgIGhPVXYMdqyE"
+    },
+    {
+        "id": "ge4pCILuxzCFzm1AD7pyn",
+        "robotsUrl": "https://www.petcircle.com.au/wishlist",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "6tEbzA0kLtRi6CnxHt3Oe4",
+        "robotsUrl": "https://www.petcircle.com.au/thanks",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "1eCJdGObLkwsZ6iJoYAVuI",
+        "robotsUrl": "https://www.petcircle.com.au/sign-in",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "X1SCTCKAtavbFmi2RGzIy",
+        "robotsUrl": "https://www.petcircle.com.au/s1/payment-method",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "2RirFg6DzfjpL0O1S22BUy",
+        "robotsUrl": "https://www.petcircle.com.au/account-my-profile",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "11EjjRdmqNtpBKwov69nx5",
+        "robotsUrl": "https://www.petcircle.com.au/account-order-history",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "3EQJMqMCct2xnaNRCuuTP",
+        "robotsUrl": "https://www.petcircle.com.au/account-my-schedules",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "Z5hjXvn3ByguHYqQzjKfp",
+        "robotsUrl": "https://www.petcircle.com.au/account-my-referrals",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "2M7GJCYTIsoxW274wiJQj8",
+        "robotsUrl": "https://www.petcircle.com.au/account-my-preference",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "3ace3LkRxV76W7jU02RjDE",
+        "robotsUrl": "https://www.petcircle.com.au/account-my-next-order",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "1tybjFuYQtJoUS1XPvXwxS",
+        "robotsUrl": "https://www.petcircle.com.au/search",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "3JnTp5GJYyi0pw11PBLFxL",
+        "robotsUrl": "https://www.petcircle.com.au/service-review",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "79Smylxj0kA8g8ZIc1EohL",
+        "robotsUrl": "https://www.petcircle.com.au/product-search",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "6iEC1298rSy2UZzs9Trz6S",
+        "robotsUrl": "https://www.petcircle.com.au/reorder",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "27GDo3FYrwDQTeASw07Mre",
+        "robotsUrl": "https://www.petcircle.com.au/previouslypurchased",
+        "content": "noindex,nofollow"
+    },
+    {
+        "id": "1qZlPaPtp5TiMp05m5P9jR",
+        "robotsUrl": "https://www.petcircle.com.au/register",
+        "content": "noindex,nofollow"
+    }
+]

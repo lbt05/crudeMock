@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "url": "/dog/food",
+        "published_at": "2022-02-08T03:31:10.237Z",
+        "created_at": "2022-02-08T03:31:07.787Z",
+        "updated_at": "2022-02-16T00:21:46.553Z",
+        "filters": {
+            "id": 3,
+            "categoryOrder": [
+                {
+                    "id": 15,
+                    "name": "Brand"
+                },
+                {
+                    "id": 16,
+                    "name": "Price"
+                },
+                {
+                    "id": 17,
+                    "name": "Type"
+                },
+                {
+                    "id": 18,
+                    "name": "Carbohydrate Source"
+                }
+            ]
+        },
+        "seo": null
+    },
+    {
+        "id": 2,
+        "url": "/dog/food/dry-food",
+        "published_at": "2022-02-08T03:31:29.906Z",
+        "created_at": "2022-02-08T03:31:28.041Z",
+        "updated_at": "2022-02-16T00:22:15.995Z",
+        "filters": {
+            "id": 4,
+            "categoryOrder": [
+                {
+                    "id": 19,
+                    "name": "Price"
+                },
+                {
+                    "id": 20,
+                    "name": "Brand"
+                },
+                {
+                    "id": 21,
+                    "name": "Type"
+                }
+            ]
+        },
+        "seo": null
+    }
+]

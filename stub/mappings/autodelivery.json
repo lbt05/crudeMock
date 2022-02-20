@@ -1,0 +1,20 @@
+{
+    "mappings": [
+        {
+            "request": {
+                "method": "GET",
+                "url": "/autodelivery/cart/getItems"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "autodelivery/empty-cart.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        }
+    ]
+}

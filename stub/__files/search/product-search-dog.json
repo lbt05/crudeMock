@@ -1,0 +1,686 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "products": [
+            "nexgard-spectra-large-dog",
+            "nexgard-spectra-medium-dog",
+            "nexgard-spectra-very-large-dog",
+            "royal-canin-veterinary-hypoallergenic-dry-dog-food",
+            "black-hawk-dry-dog-food-adult-chicken-and-rice",
+            "black-hawk-dry-dog-food-adult-lamb-and-rice",
+            "royal-canin-labrador-retriever-adult-dry-dog-food",
+            "royal-canin-veterinary-gastro-intestinal-low-fat-dry-dog-food",
+            "nexgard-spectra-small-dog",
+            "royal-canin-maxi-adult-dry-dog-food",
+            "royal-canin-medium-adult-dry-dog-food",
+            "royal-canin-veterinary-satiety-dry-dog-food",
+            "royal-canin-maxi-puppy-dry-dog-food",
+            "royal-canin-medium-puppy-dry-dog-food",
+            "royal-canin-veterinary-anallergenic-dry-dog-food",
+            "advance-medium-adult-dry-dog-food-chicken-with-rice",
+            "black-hawk-dry-dog-food-adult-fish-and-potato",
+            "royal-canin-golden-retriever-adult-dry-dog-food",
+            "advance-large-adult-dry-dog-food-chicken-with-rice",
+            "royal-canin-veterinary-gastro-intestinal-wet-dog-food-cans",
+            "meals-for-mutts-dry-dog-food-adult-salmon-and-sardine",
+            "instinctive-bite-grain-free-adult-dry-dog-food-kangaroo-sweet-potato",
+            "black-hawk-dry-dog-food-large-breed-adult-chicken-and-rice",
+            "4cyte-canine-joint-support-supplement",
+            "bravecto-large-dog-blue",
+            "supercoat-dry-dog-food-adult-chicken",
+            "greenies-original-large-dog-dental-treats",
+            "eukanuba-adult-large-breed-dry-dog-food",
+            "ziwi-peak-dry-dog-food-beef",
+            "greenies-original-regular-dog-dental-treats",
+            "royal-canin-mini-adult-dry-dog-food",
+            "supercoat-dry-dog-food-large-breed-adult-chicken",
+            "royal-canin-german-shepherd-adult-dry-dog-food",
+            "advance-large-puppy-dry-dog-food-chicken-with-rice",
+            "royal-canin-labrador-retriever-puppy-dry-dog-food",
+            "black-hawk-grain-free-dry-dog-food-adult-kangaroo",
+            "ivory-coat-grain-free-dry-dog-food-lamb-and-kangaroo",
+            "ziwi-peak-dry-dog-food-mackerel-and-lamb",
+            "ivory-coat-grain-free-dry-dog-food-adult-ocean-fish",
+            "meals-for-mutts-dry-dog-food-large-breed-adult-salmon-and-sardine",
+            "meals-for-mutts-grain-free-dry-dog-food-adult-salmon-and-sardine",
+            "ivory-coat-grain-free-dry-dog-food-adult-chicken-with-coconut-oil",
+            "taste-of-the-wild-pacific-stream-smoked-salmon",
+            "rose-hip-vital-canine",
+            "revolution-cat-blue",
+            "bravecto-medium-dog-green",
+            "bravecto-small-dog-orange",
+            "advocate-dog-medium-aqua",
+            "greenies-original-petite-dog-dental-treats",
+            "ziwi-peak-dry-dog-food-lamb"
+        ],
+        "productSkus": [
+            {
+                "product": "nexgard-spectra-large-dog",
+                "skus": [
+                    "DHN2235",
+                    "DHN2235VO2X",
+                    "DHN2230"
+                ],
+                "priceRange": {
+                    "min": 66.36,
+                    "max": 186.18
+                }
+            },
+            {
+                "product": "nexgard-spectra-medium-dog",
+                "skus": [
+                    "DHN2220",
+                    "DHN2225",
+                    "DHN2225VO2X"
+                ],
+                "priceRange": {
+                    "min": 58.84,
+                    "max": 162.94
+                }
+            },
+            {
+                "product": "nexgard-spectra-very-large-dog",
+                "skus": [
+                    "DHN2245VO2X",
+                    "DHN2240",
+                    "DHN2245"
+                ],
+                "priceRange": {
+                    "min": 68.85,
+                    "max": 189.13
+                }
+            },
+            {
+                "product": "royal-canin-veterinary-hypoallergenic-dry-dog-food",
+                "skus": [
+                    "63280",
+                    "63281VO2X",
+                    "63281",
+                    "63193VO2X"
+                ],
+                "priceRange": {
+                    "min": 70.54,
+                    "max": 328.45
+                }
+            },
+            {
+                "product": "black-hawk-dry-dog-food-adult-chicken-and-rice",
+                "skus": [
+                    "BCRA3VO2X",
+                    "BCRA20VO2X",
+                    "BCRA20",
+                    "BCRA3",
+                    "DPB0070"
+                ],
+                "priceRange": {
+                    "min": 28.07,
+                    "max": 216.59
+                }
+            },
+            {
+                "product": "black-hawk-dry-dog-food-adult-lamb-and-rice",
+                "skus": [
+                    "BLRA20VO2X",
+                    "DPB0110",
+                    "BLRA20",
+                    "BLRA3",
+                    "BLRA3VO2X"
+                ],
+                "priceRange": {
+                    "min": 28.07,
+                    "max": 216.59
+                }
+            },
+            {
+                "product": "royal-canin-labrador-retriever-adult-dry-dog-food",
+                "skus": [
+                    "RC40654",
+                    "RC40655",
+                    "RC40654VO2X",
+                    "RC40655VO2X"
+                ],
+                "priceRange": {
+                    "min": 33.09,
+                    "max": 176.38
+                }
+            },
+            {
+                "product": "royal-canin-veterinary-gastro-intestinal-low-fat-dry-dog-food",
+                "skus": [
+                    "15345VO2X",
+                    "15347VO2X",
+                    "15347"
+                ],
+                "priceRange": {
+                    "min": 50.16,
+                    "max": 247.56
+                }
+            },
+            {
+                "product": "nexgard-spectra-small-dog",
+                "skus": [
+                    "DHN2215",
+                    "DHN2210",
+                    "DHN2215VO2X"
+                ],
+                "priceRange": {
+                    "min": 55.03,
+                    "max": 156.78
+                }
+            },
+            {
+                "product": "royal-canin-maxi-adult-dry-dog-food",
+                "skus": [
+                    "RC40859",
+                    "RC40859VO2X",
+                    "RC40989",
+                    "RC40989VO2X"
+                ],
+                "priceRange": {
+                    "min": 46.39,
+                    "max": 233.81
+                }
+            },
+            {
+                "product": "royal-canin-medium-adult-dry-dog-food",
+                "skus": [
+                    "RC40851",
+                    "RC40851VO2X",
+                    "RC41115",
+                    "RC41115VO2X"
+                ],
+                "priceRange": {
+                    "min": 46.39,
+                    "max": 225.38
+                }
+            },
+            {
+                "product": "royal-canin-veterinary-satiety-dry-dog-food",
+                "skus": [
+                    "20622",
+                    "11378"
+                ],
+                "priceRange": {
+                    "min": 87.16,
+                    "max": 134.73
+                }
+            },
+            {
+                "product": "royal-canin-maxi-puppy-dry-dog-food",
+                "skus": [
+                    "RC40988",
+                    "RC40988VO2",
+                    "RC40857VO2X",
+                    "RC40857"
+                ],
+                "priceRange": {
+                    "min": 44.64,
+                    "max": 195.39
+                }
+            },
+            {
+                "product": "royal-canin-medium-puppy-dry-dog-food",
+                "skus": [
+                    "RC41116",
+                    "RC40849VO2X",
+                    "RC40849",
+                    "RC41116VO2X"
+                ],
+                "priceRange": {
+                    "min": 44.64,
+                    "max": 241.06
+                }
+            },
+            {
+                "product": "royal-canin-veterinary-anallergenic-dry-dog-food",
+                "skus": [
+                    "17990",
+                    "17990VO2X",
+                    "17989"
+                ],
+                "priceRange": {
+                    "min": 58.39,
+                    "max": 250.86
+                }
+            },
+            {
+                "product": "advance-medium-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "M269154",
+                    "M174996VO2X",
+                    "M269154VO2X",
+                    "M175094",
+                    "M174996"
+                ],
+                "priceRange": {
+                    "min": 27.55,
+                    "max": 215.00
+                }
+            },
+            {
+                "product": "black-hawk-dry-dog-food-adult-fish-and-potato",
+                "skus": [
+                    "DPB0140",
+                    "DPB0140VO2X",
+                    "DPB0160",
+                    "DPB0150",
+                    "DPB0160VO2X"
+                ],
+                "priceRange": {
+                    "min": 31.99,
+                    "max": 243.98
+                }
+            },
+            {
+                "product": "royal-canin-golden-retriever-adult-dry-dog-food",
+                "skus": [
+                    "RC12851",
+                    "RC12851VO2X"
+                ],
+                "priceRange": {
+                    "min": 96.90,
+                    "max": 199.90
+                }
+            },
+            {
+                "product": "advance-large-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "269143",
+                    "269143VO2X",
+                    "M216257"
+                ],
+                "priceRange": {
+                    "min": 87.04,
+                    "max": 224.00
+                }
+            },
+            {
+                "product": "royal-canin-veterinary-gastro-intestinal-wet-dog-food-cans",
+                "skus": [
+                    "XH029VO2X",
+                    "XH029"
+                ],
+                "priceRange": {
+                    "min": 53.20,
+                    "max": 109.74
+                }
+            },
+            {
+                "product": "meals-for-mutts-dry-dog-food-adult-salmon-and-sardine",
+                "skus": [
+                    "M5158",
+                    "M5158VO2X",
+                    "M5156",
+                    "MFM5157"
+                ],
+                "priceRange": {
+                    "min": 31.44,
+                    "max": 253.30
+                }
+            },
+            {
+                "product": "instinctive-bite-grain-free-adult-dry-dog-food-kangaroo-sweet-potato",
+                "skus": [
+                    "IBGFKP05VO2X",
+                    "IBGFKP05",
+                    "IBGFKP15"
+                ],
+                "priceRange": {
+                    "min": 41.56,
+                    "max": 104.90
+                }
+            },
+            {
+                "product": "black-hawk-dry-dog-food-large-breed-adult-chicken-and-rice",
+                "skus": [
+                    "BH03980",
+                    "BH03980VO2X"
+                ],
+                "priceRange": {
+                    "min": 131.36,
+                    "max": 239.98
+                }
+            },
+            {
+                "product": "4cyte-canine-joint-support-supplement",
+                "skus": [
+                    "4CYTC03VO2X",
+                    "4CYTC02",
+                    "4CYTC03"
+                ],
+                "priceRange": {
+                    "min": 39.95,
+                    "max": 127.00
+                }
+            },
+            {
+                "product": "bravecto-large-dog-blue",
+                "skus": [
+                    "BRAVL6VO2X",
+                    "DHB2015",
+                    "BRAVL6"
+                ],
+                "priceRange": {
+                    "min": 46.59,
+                    "max": 146.64
+                }
+            },
+            {
+                "product": "supercoat-dry-dog-food-adult-chicken",
+                "skus": [
+                    "N12309020",
+                    "12309022"
+                ],
+                "priceRange": {
+                    "min": 23.75,
+                    "max": 48.99
+                }
+            },
+            {
+                "product": "greenies-original-large-dog-dental-treats",
+                "skus": [
+                    "M268423",
+                    "381967",
+                    "381967MS",
+                    "M294803"
+                ],
+                "priceRange": {
+                    "min": 19.00,
+                    "max": 180.00
+                }
+            },
+            {
+                "product": "eukanuba-adult-large-breed-dry-dog-food",
+                "skus": [
+                    "P22991"
+                ],
+                "priceRange": {
+                    "min": 95.08,
+                    "max": 100.08
+                }
+            },
+            {
+                "product": "ziwi-peak-dry-dog-food-beef",
+                "skus": [
+                    "ZW9421016593170",
+                    "ZW9421016593187",
+                    "ZW9421016593163",
+                    "ZW9421016593989"
+                ],
+                "priceRange": {
+                    "min": 33.49,
+                    "max": 197.59
+                }
+            },
+            {
+                "product": "greenies-original-regular-dog-dental-treats",
+                "skus": [
+                    "M294804",
+                    "381966",
+                    "381966VO2X",
+                    "N381966MS",
+                    "M268424"
+                ],
+                "priceRange": {
+                    "min": 21.60,
+                    "max": 180.00
+                }
+            },
+            {
+                "product": "royal-canin-mini-adult-dry-dog-food",
+                "skus": [
+                    "RC25098",
+                    "RC40873VO2X",
+                    "RC40873",
+                    "RC40831"
+                ],
+                "priceRange": {
+                    "min": 26.19,
+                    "max": 158.69
+                }
+            },
+            {
+                "product": "supercoat-dry-dog-food-large-breed-adult-chicken",
+                "skus": [
+                    "N12309016",
+                    "12309023"
+                ],
+                "priceRange": {
+                    "min": 23.75,
+                    "max": 48.99
+                }
+            },
+            {
+                "product": "royal-canin-german-shepherd-adult-dry-dog-food",
+                "skus": [
+                    "RC25534VO2X",
+                    "RC25534"
+                ],
+                "priceRange": {
+                    "min": 88.35,
+                    "max": 182.26
+                }
+            },
+            {
+                "product": "advance-large-puppy-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "M199045",
+                    "M269152VO2X",
+                    "M199024VO2X",
+                    "M269152",
+                    "M199024"
+                ],
+                "priceRange": {
+                    "min": 24.65,
+                    "max": 240.29
+                }
+            },
+            {
+                "product": "royal-canin-labrador-retriever-puppy-dry-dog-food",
+                "skus": [
+                    "RC42657",
+                    "RC42669",
+                    "RC42657VO2X",
+                    "RC42669VO2X"
+                ],
+                "priceRange": {
+                    "min": 34.39,
+                    "max": 221.46
+                }
+            },
+            {
+                "product": "black-hawk-grain-free-dry-dog-food-adult-kangaroo",
+                "skus": [
+                    "BH00335",
+                    "BH00337",
+                    "BH00336",
+                    "BH00335VO4X",
+                    "BH00336V02X"
+                ],
+                "priceRange": {
+                    "min": 33.81,
+                    "max": 135.20
+                }
+            },
+            {
+                "product": "ivory-coat-grain-free-dry-dog-food-lamb-and-kangaroo",
+                "skus": [
+                    "1000021VO2X",
+                    "1000021",
+                    "1000649",
+                    "1000649VO2X"
+                ],
+                "priceRange": {
+                    "min": 27.19,
+                    "max": 211.66
+                }
+            },
+            {
+                "product": "ziwi-peak-dry-dog-food-mackerel-and-lamb",
+                "skus": [
+                    "ZW9421016594153",
+                    "ZW9421016594139",
+                    "ZW9421016594115",
+                    "ZW9421016595648"
+                ],
+                "priceRange": {
+                    "min": 33.49,
+                    "max": 231.99
+                }
+            },
+            {
+                "product": "ivory-coat-grain-free-dry-dog-food-adult-ocean-fish",
+                "skus": [
+                    "1000405",
+                    "1000405VO2X",
+                    "1000404",
+                    "1000404VO2X"
+                ],
+                "priceRange": {
+                    "min": 29.60,
+                    "max": 164.62
+                }
+            },
+            {
+                "product": "meals-for-mutts-dry-dog-food-large-breed-adult-salmon-and-sardine",
+                "skus": [
+                    "M5179",
+                    "M5179VO2X",
+                    "DSSLS9"
+                ],
+                "priceRange": {
+                    "min": 75.80,
+                    "max": 253.30
+                }
+            },
+            {
+                "product": "meals-for-mutts-grain-free-dry-dog-food-adult-salmon-and-sardine",
+                "skus": [
+                    "M5181",
+                    "MFM5182",
+                    "M5183VO2X",
+                    "M5183"
+                ],
+                "priceRange": {
+                    "min": 32.29,
+                    "max": 298.70
+                }
+            },
+            {
+                "product": "ivory-coat-grain-free-dry-dog-food-adult-chicken-with-coconut-oil",
+                "skus": [
+                    "1001691VO2X",
+                    "1001707",
+                    "1001691",
+                    "1001707VO2X"
+                ],
+                "priceRange": {
+                    "min": 27.19,
+                    "max": 211.66
+                }
+            },
+            {
+                "product": "taste-of-the-wild-pacific-stream-smoked-salmon",
+                "skus": [
+                    "TOWDPS2",
+                    "TOWI2246",
+                    "TOW5063",
+                    "TOWI2253"
+                ],
+                "priceRange": {
+                    "min": 27.99,
+                    "max": 164.99
+                }
+            },
+            {
+                "product": "rose-hip-vital-canine",
+                "skus": [
+                    "RHV2264",
+                    "RHV2264VO2X",
+                    "RHV304",
+                    "RHV2260"
+                ],
+                "priceRange": {
+                    "min": 29.95,
+                    "max": 199.89
+                }
+            },
+            {
+                "product": "revolution-cat-blue",
+                "skus": [
+                    "PFI7944VO2X",
+                    "PFI7944",
+                    "PFI7939"
+                ],
+                "priceRange": {
+                    "min": 47.19,
+                    "max": 125.42
+                }
+            },
+            {
+                "product": "bravecto-medium-dog-green",
+                "skus": [
+                    "DHB2010",
+                    "BRAVM6",
+                    "BRAVM6VO2X"
+                ],
+                "priceRange": {
+                    "min": 46.59,
+                    "max": 146.64
+                }
+            },
+            {
+                "product": "bravecto-small-dog-orange",
+                "skus": [
+                    "BRAVS6VO2X",
+                    "BRAVS6",
+                    "DHB2005"
+                ],
+                "priceRange": {
+                    "min": 46.59,
+                    "max": 146.64
+                }
+            },
+            {
+                "product": "advocate-dog-medium-aqua",
+                "skus": [
+                    "BAY0140VOX2",
+                    "BAY0132",
+                    "BAY0140"
+                ],
+                "priceRange": {
+                    "min": 49.88,
+                    "max": 157.97
+                }
+            },
+            {
+                "product": "greenies-original-petite-dog-dental-treats",
+                "skus": [
+                    "M294805",
+                    "N381965MS",
+                    "381965",
+                    "381965VO2X",
+                    "M268425"
+                ],
+                "priceRange": {
+                    "min": 21.60,
+                    "max": 180.00
+                }
+            },
+            {
+                "product": "ziwi-peak-dry-dog-food-lamb",
+                "skus": [
+                    "ZW9421016592982",
+                    "ZW9421016593071",
+                    "ZW9421016590599",
+                    "ZW9421016593965"
+                ],
+                "priceRange": {
+                    "min": 30.70,
+                    "max": 197.59
+                }
+            }
+        ]
+    }
+}

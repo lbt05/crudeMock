@@ -1,0 +1,56 @@
+{
+    "mappings": [
+        {
+            "request": {
+                "method": "GET",
+                "url": "/search/articles",
+                "params": {
+                    "limit": 5,
+                    "query": ".*"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "search/article-search-dog.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/search/suggestions"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "search/suggestions-search-dog.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/search/products"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "search/product-search-dog.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "status": "success",
+    "message": "Finished retrieving the carts.",
+    "data": {
+        "cartGroups": []
+    }
+}

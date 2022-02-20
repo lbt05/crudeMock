@@ -1,0 +1,13 @@
+{
+
+    "recommendation": {
+      "enabled": true
+    },
+    "enrichDatalayer": {
+      "enabled": false
+    },
+    "newPaypalFlow": {
+      "enabled": true
+    }
+  
+  }

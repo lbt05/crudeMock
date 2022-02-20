@@ -1,0 +1,3473 @@
+{
+    "Meganav": [
+        {
+            "label": "Sale",
+            "slug": "/discover/specials",
+            "children": [],
+            "avatar": null
+        },
+        {
+            "label": "Dog",
+            "slug": "#",
+            "children": [
+                {
+                    "label": "Shop by Category",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Food",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Dry Food",
+                                    "slug": "/dog/food/dry-food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Wet Food",
+                                    "slug": "/dog/food/wet-food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Natural Food",
+                                    "slug": "/dog/food/natural-food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Vet Diets",
+                                    "slug": "/dog/food/vet-diets",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Grain Free",
+                                    "slug": "/dog/food/grain-free",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Freeze and Air Dried",
+                                    "slug": "/dog/food/freeze-and-air-dried",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Shop all Food",
+                                    "slug": "/dog/food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "underlined_teal",
+                                    "footer": null
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Treats",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Natural Treats",
+                                    "slug": "/dog/treats/natural-treats",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Dental Treats",
+                                    "slug": "/dog/treats/dental-treats",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Training Treats",
+                                    "slug": "/dog/treats/training-treats",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Freeze and Air Dried",
+                                    "slug": "/dog/treats/freeze-and-air-dried",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Long Lasting Treats",
+                                    "slug": "/dog/treats/long-lasting-treats",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Biscuits",
+                                    "slug": "/dog/treats/biscuits",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Shop all Treats",
+                                    "slug": "/dog/treats",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "underlined_teal",
+                                    "footer": null
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Other Supplies",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Toys",
+                                    "slug": "/dog/toys",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Flea and Worming",
+                                    "slug": "/dog/flea-and-worming",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Health",
+                                    "slug": "/dog/health",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Training and Clean Up",
+                                    "slug": "/dog/training-and-clean-up",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Grooming",
+                                    "slug": "/dog/grooming",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Beds",
+                                    "slug": "/dog/beds",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Feeding",
+                                    "slug": "/dog/feeding",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Collars and Leads",
+                                    "slug": "/dog/collars-and-leads",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Clothes",
+                                    "slug": "/dog/clothes",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Technology",
+                                    "slug": "/dog/technology",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "House and Travel",
+                                    "slug": "/dog/house-and-travel",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Shop all Supplies",
+                                    "slug": "/dog",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "underlined_teal",
+                                    "footer": null
+                                }
+                            ]
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Breed",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Shop by Breed Size",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": "mobile",
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Small",
+                                    "slug": "/dog?breed-size=small",
+                                    "isDisplayed": true,
+                                    "displayTo": "both",
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Medium",
+                                    "slug": "/dog?breed-size=medium",
+                                    "isDisplayed": true,
+                                    "displayTo": "both",
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Large",
+                                    "slug": "/dog?breed-size=large",
+                                    "isDisplayed": true,
+                                    "displayTo": "both",
+                                    "style": "none",
+                                    "footer": null
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Staffy",
+                            "slug": "/collections/staffy-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Cavoodle",
+                            "slug": "/collections/cavoodle-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Greyhound",
+                            "slug": "/collections/greyhound-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "French Bulldog",
+                            "slug": "/collections/french-bulldog-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Golden Retriever",
+                            "slug": "/collections/golden-retriever-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Border Collie",
+                            "slug": "/collections/border-collie-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Australian Shepherd",
+                            "slug": "/collections/australian-shepherd-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Pomeranian",
+                            "slug": "/collections/pomeranian-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Dachshund",
+                            "slug": "/collections/dachshund-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Pug",
+                            "slug": "/collections/pug-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Whippet",
+                            "slug": "/collections/whippet-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/vet-pet-plan",
+                            "banner": {
+                                "id": 26,
+                                "name": "vet-pet-plan-dog.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_vet-pet-plan-dog.png",
+                                        "hash": "thumbnail_vet_pet_plan_dog_264ec31b8f",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 17.3,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_vet_pet_plan_dog_264ec31b8f.png"
+                                    }
+                                },
+                                "hash": "vet_pet_plan_dog_264ec31b8f",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 25.07,
+                                "url": "https://storage.googleapis.com/cms-devtest/vet_pet_plan_dog_264ec31b8f.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:21:41.000Z",
+                                "updated_at": "2022-02-14T04:21:41.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/puppy-food-guide",
+                            "banner": {
+                                "id": 13,
+                                "name": "start-of-life-puppy.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_start-of-life-puppy.png",
+                                        "hash": "thumbnail_start_of_life_puppy_c77306b794",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 24.08,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_start_of_life_puppy_c77306b794.png"
+                                    }
+                                },
+                                "hash": "start_of_life_puppy_c77306b794",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 46.61,
+                                "url": "https://storage.googleapis.com/cms-devtest/start_of_life_puppy_c77306b794.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Behaviour",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Separation Anxiety",
+                            "slug": "/dog?behaviour=separation-anxiety",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Aggression",
+                            "slug": "/dog?behaviour=aggression",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Urine Marking",
+                            "slug": "/dog?behaviour=urine-marking",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Boredom",
+                            "slug": "/dog?behaviour=boredom",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hiding",
+                            "slug": "/dog?behaviour=hiding",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Escaping",
+                            "slug": "/dog?behaviour=escaping",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "#openvetchat",
+                            "banner": {
+                                "id": 6,
+                                "name": "chat-to-vet.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_chat-to-vet.png",
+                                        "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 15.99,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                                    }
+                                },
+                                "hash": "chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 23.49,
+                                "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/dog-behaviour-problems",
+                            "banner": {
+                                "id": 14,
+                                "name": "behaviour-problems-dog.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_behaviour-problems-dog.png",
+                                        "hash": "thumbnail_behaviour_problems_dog_595472ac6a",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 28.78,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_behaviour_problems_dog_595472ac6a.png"
+                                    }
+                                },
+                                "hash": "behaviour_problems_dog_595472ac6a",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 43.27,
+                                "url": "https://storage.googleapis.com/cms-devtest/behaviour_problems_dog_595472ac6a.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Activity",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Entertain",
+                            "slug": "/dog?activity=entertain",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Train",
+                            "slug": "/dog?activity=train",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Monitor",
+                            "slug": "/dog?activity=monitor",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Exercise",
+                            "slug": "/dog?activity=exercise",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Clean",
+                            "slug": "/dog?activity=clean",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Travel",
+                            "slug": "/dog?activity=travel",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Style",
+                            "slug": "/dog?activity=style",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "#openvetchat",
+                            "banner": {
+                                "id": 6,
+                                "name": "chat-to-vet.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_chat-to-vet.png",
+                                        "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 15.99,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                                    }
+                                },
+                                "hash": "chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 23.49,
+                                "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/keeping-your-dog-fit-happy-and-stylish",
+                            "banner": {
+                                "id": 5,
+                                "name": "activities-dog.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_activities-dog.png",
+                                        "hash": "thumbnail_activities_dog_b5ad4ab110",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 20.81,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_activities_dog_b5ad4ab110.png"
+                                    }
+                                },
+                                "hash": "activities_dog_b5ad4ab110",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 31.04,
+                                "url": "https://storage.googleapis.com/cms-devtest/activities_dog_b5ad4ab110.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Health Condition",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Dental Health",
+                            "slug": "/dog?health-condition=dental-health",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Sensitive Stomach",
+                            "slug": "/dog?health-condition=sensitive-stomach",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Anxiety",
+                            "slug": "/dog?health-condition=anxiety",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Overweight",
+                            "slug": "/dog?health-condition=overweight",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Urinary Problems",
+                            "slug": "/dog?health-condition=urinary-problems",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Sensitive Skin",
+                            "slug": "/dog?health-condition=sensitive-skin",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Bad Breath",
+                            "slug": "/dog?health-condition=bad-breath",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Joint Problems",
+                            "slug": "/dog?health-condition=joint-problems",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Odour",
+                            "slug": "/dog?health-condition=odour",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "#openvetchat",
+                            "banner": {
+                                "id": 6,
+                                "name": "chat-to-vet.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_chat-to-vet.png",
+                                        "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 15.99,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                                    }
+                                },
+                                "hash": "chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 23.49,
+                                "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/preventative-vs-restorative-pet-care",
+                            "banner": {
+                                "id": 12,
+                                "name": "health-dog.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_health-dog.png",
+                                        "hash": "thumbnail_health_dog_1d8ef10176",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 25.2,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_health_dog_1d8ef10176.png"
+                                    }
+                                },
+                                "hash": "health_dog_1d8ef10176",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 40.73,
+                                "url": "https://storage.googleapis.com/cms-devtest/health_dog_1d8ef10176.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Lifestage",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "mobile",
+                    "children": [
+                        {
+                            "label": "Puppy",
+                            "slug": "/puppy",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Adult",
+                            "slug": "/dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Senior",
+                            "slug": "/dog?lifestage=senior",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Top Dog Brands",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Advance",
+                            "slug": "/advance?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Black Hawk",
+                            "slug": "/black-hawk?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hills Prescription Diet",
+                            "slug": "/hills-prescription-diet?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hills Science Diet",
+                            "slug": "/hills-science-diet?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Kong",
+                            "slug": "/kong?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Meals For Mutts",
+                            "slug": "/meals-for-mutts?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Nexgard Spectra",
+                            "slug": "/nexgard-spectra?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Paws for Life",
+                            "slug": "/paws-for-life?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Royal Canin",
+                            "slug": "/royal-canin?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Royal Canin Veterinary Diet",
+                            "slug": "/royal-canin-veterinary-diet?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Supercoat",
+                            "slug": "/supercoat?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Taste of the Wild",
+                            "slug": "/taste-of-the-wild?pet=dog",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Brands",
+                        "slug": "/dog",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop All Dog",
+                    "slug": "/dog",
+                    "tag": null,
+                    "style": "bordered",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                }
+            ],
+            "avatar": null
+        },
+        {
+            "label": "Cat",
+            "slug": "#",
+            "children": [
+                {
+                    "label": "Shop by Category",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Food",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Wet Food",
+                                    "slug": "/cat/food/wet-food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Dry Food",
+                                    "slug": "/cat/food/dry-food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Vet Diets",
+                                    "slug": "/cat/food/vet-diets",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Natural Food",
+                                    "slug": "/cat/food/natural-food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Grain Free",
+                                    "slug": "/cat/food/grain-free",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Freeze and Air Dried",
+                                    "slug": "/cat/food/freeze-and-air-dried",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Shop all Food",
+                                    "slug": "/cat/food",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "underlined_teal",
+                                    "footer": null
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Litter and Accessories",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Litter",
+                                    "slug": "/cat/litter-and-accessories/litter",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Litter Boxes",
+                                    "slug": "/cat/litter-and-accessories/litter-boxes",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Litter Box Accessories",
+                                    "slug": "/cat/litter-and-accessories/litter-box-accessories",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Tofu",
+                                    "slug": "/cat/litter-and-accessories/tofu",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Clumping",
+                                    "slug": "/cat/litter-and-accessories/clumping",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Paper",
+                                    "slug": "/cat/litter-and-accessories/paper",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Shop all Litter",
+                                    "slug": "/cat/litter-and-accessories",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "underlined_teal",
+                                    "footer": null
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Other Supplies",
+                            "slug": "#",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": [
+                                {
+                                    "label": "Treats",
+                                    "slug": "/cat/treats",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Toys",
+                                    "slug": "/cat/toys",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Flea and Worming",
+                                    "slug": "/cat/flea-and-worming",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Health",
+                                    "slug": "/cat/health",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Feeding",
+                                    "slug": "/cat/feeding",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Trees and Scratchers",
+                                    "slug": "/cat/trees-and-scratchers",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Beds",
+                                    "slug": "/cat/beds",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Training and Clean Up",
+                                    "slug": "/cat/training-and-clean-up",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Grooming",
+                                    "slug": "/cat/grooming",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Collars and Leads",
+                                    "slug": "/cat/collars-and-leads",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "House and Travel",
+                                    "slug": "/cat/house-and-travel",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Technology",
+                                    "slug": "/cat/technology",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "none",
+                                    "footer": null
+                                },
+                                {
+                                    "label": "Shop all Supplies",
+                                    "slug": "/cat",
+                                    "isDisplayed": true,
+                                    "displayTo": null,
+                                    "style": "underlined_teal",
+                                    "footer": null
+                                }
+                            ]
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Breed",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Domestic Shorthair",
+                            "slug": "/collections/domestic-shorthair-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "British Shorthair",
+                            "slug": "/collections/british-shorthair-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Ragdoll",
+                            "slug": "/collections/ragdoll-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Maine Coon",
+                            "slug": "/collections/maine-coon-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Burmese",
+                            "slug": "/collections/burmese-cat-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Russian Blue",
+                            "slug": "/collections/russian-blue-cat-essentials",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/vet-pet-plan",
+                            "banner": {
+                                "id": 8,
+                                "name": "vet-pet-plan.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_vet-pet-plan.png",
+                                        "hash": "thumbnail_vet_pet_plan_7566623b71",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 17.78,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_vet_pet_plan_7566623b71.png"
+                                    }
+                                },
+                                "hash": "vet_pet_plan_7566623b71",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 25.55,
+                                "url": "https://storage.googleapis.com/cms-devtest/vet_pet_plan_7566623b71.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/kitten-essentials-guide",
+                            "banner": {
+                                "id": 10,
+                                "name": "start-of-life-kitten.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_start-of-life-kitten.png",
+                                        "hash": "thumbnail_start_of_life_kitten_45c20ff522",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 25.45,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_start_of_life_kitten_45c20ff522.png"
+                                    }
+                                },
+                                "hash": "start_of_life_kitten_45c20ff522",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 44.35,
+                                "url": "https://storage.googleapis.com/cms-devtest/start_of_life_kitten_45c20ff522.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Behaviour",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Scratching",
+                            "slug": "/cat?behaviour=scratching",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hunting",
+                            "slug": "/cat?behaviour=hunting",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Separation Anxiety",
+                            "slug": "/cat?behaviour=separation-anxiety",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Boredom",
+                            "slug": "/cat?behaviour=boredom",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hiding",
+                            "slug": "/cat?behaviour=hiding",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Escaping",
+                            "slug": "/cat?behaviour=escaping",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "#openvetchat",
+                            "banner": {
+                                "id": 6,
+                                "name": "chat-to-vet.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_chat-to-vet.png",
+                                        "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 15.99,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                                    }
+                                },
+                                "hash": "chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 23.49,
+                                "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/reducing-stress-in-multi-cat-households",
+                            "banner": {
+                                "id": 17,
+                                "name": "behaviour-cat.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_behaviour-cat.png",
+                                        "hash": "thumbnail_behaviour_cat_201f1b3f16",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 22.5,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_behaviour_cat_201f1b3f16.png"
+                                    }
+                                },
+                                "hash": "behaviour_cat_201f1b3f16",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 33.69,
+                                "url": "https://storage.googleapis.com/cms-devtest/behaviour_cat_201f1b3f16.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Activity",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Entertain",
+                            "slug": "/cat?activity=entertain",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Monitor",
+                            "slug": "/cat?activity=monitor",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Exercise",
+                            "slug": "/cat?activity=exercise",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Clean",
+                            "slug": "/cat?activity=clean",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Travel",
+                            "slug": "/cat?activity=travel",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Style",
+                            "slug": "/cat?activity=style",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "#openvetchat",
+                            "banner": {
+                                "id": 6,
+                                "name": "chat-to-vet.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_chat-to-vet.png",
+                                        "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 15.99,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                                    }
+                                },
+                                "hash": "chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 23.49,
+                                "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/10-must-have-cat-products-for-when-you're-away-from-home",
+                            "banner": {
+                                "id": 11,
+                                "name": "activities-cat.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_activities-cat.png",
+                                        "hash": "thumbnail_activities_cat_06f391c059",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 22.7,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_activities_cat_06f391c059.png"
+                                    }
+                                },
+                                "hash": "activities_cat_06f391c059",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 34.69,
+                                "url": "https://storage.googleapis.com/cms-devtest/activities_cat_06f391c059.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Health Condition",
+                    "slug": "#",
+                    "tag": "new",
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Dental Health",
+                            "slug": "/cat?health-condition=dental-health",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Sensitive Stomach",
+                            "slug": "/cat?health-condition=sensitive-stomach",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Anxiety",
+                            "slug": "/cat?health-condition=anxiety",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Urinary Problems",
+                            "slug": "/cat?health-condition=urinary-problems",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Sensitive Skin",
+                            "slug": "/cat?health-condition=sensitive-skin",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Bad Breath",
+                            "slug": "/cat?health-condition=bad-breath",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Joint Problems",
+                            "slug": "/cat?health-condition=joint-problems",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Odour",
+                            "slug": "/cat?health-condition=odour",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [
+                        {
+                            "bannerLink": "#openvetchat",
+                            "banner": {
+                                "id": 6,
+                                "name": "chat-to-vet.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_chat-to-vet.png",
+                                        "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 15.99,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                                    }
+                                },
+                                "hash": "chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 23.49,
+                                "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/preventative-vs-restorative-pet-care",
+                            "banner": {
+                                "id": 16,
+                                "name": "health-cat.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 112,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_health-cat.png",
+                                        "hash": "thumbnail_health_cat_7173785258",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 65,
+                                        "size": 20.9,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_health_cat_7173785258.png"
+                                    }
+                                },
+                                "hash": "health_cat_7173785258",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 34.1,
+                                "url": "https://storage.googleapis.com/cms-devtest/health_cat_7173785258.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Lifestage",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "mobile",
+                    "children": [
+                        {
+                            "label": "Kitten",
+                            "slug": "/kitten",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Adult",
+                            "slug": "/cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Senior",
+                            "slug": "/cat?lifestage=senior",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Top Cat Brands",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Advance",
+                            "slug": "/advance?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Black Hawk",
+                            "slug": "/black-hawk?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Breeders Choice",
+                            "slug": "/breeders-choice?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Dine",
+                            "slug": "/dine?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Felix",
+                            "slug": "/felix?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Greenies",
+                            "slug": "/greenies?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hills Prescription Diet",
+                            "slug": "/hills-prescription-diet?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hills Science Diet",
+                            "slug": "/hills-science-diet?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Pro Plan",
+                            "slug": "/pro-plan?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Royal Canin",
+                            "slug": "/royal-canin?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Royal Canin Veterinary Diet",
+                            "slug": "/royal-canin-veterinary-diet?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Ziwi",
+                            "slug": "/ziwi?pet=cat",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Brands",
+                        "slug": "/cat",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop All Cat",
+                    "slug": "/cat",
+                    "tag": null,
+                    "style": "bordered",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                }
+            ],
+            "avatar": null
+        },
+        {
+            "label": "Bird",
+            "slug": "#",
+            "children": [
+                {
+                    "label": "Food",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Chicken Food",
+                            "slug": "/bird/food/chicken-food",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Wild Bird Food",
+                            "slug": "/bird/food/wild-bird-food",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Parrot Food",
+                            "slug": "/bird/food/parrot-food",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Budgie Food",
+                            "slug": "/bird/food/budgie-food",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Cockatiel Food",
+                            "slug": "/bird/food/cockatiel-food",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Finch and Canary Food",
+                            "slug": "/bird/food/finch-and-canary-food",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Food",
+                        "slug": "/bird/food",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/what-do-birds-eat",
+                            "banner": {
+                                "id": 7,
+                                "name": "bird-banner-2.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 103,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_bird-banner-2.png",
+                                        "hash": "thumbnail_bird_banner_2_518543d29b",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 24.34,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_bird_banner_2_518543d29b.png"
+                                    }
+                                },
+                                "hash": "bird_banner_2_518543d29b",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 17.15,
+                                "url": "https://storage.googleapis.com/cms-devtest/bird_banner_2_518543d29b.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/beginners-guide-to-bird-care",
+                            "banner": {
+                                "id": 9,
+                                "name": "bird-banner-1.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 103,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_bird-banner-1.png",
+                                        "hash": "thumbnail_bird_banner_1_3fef347e37",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 25.12,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_bird_banner_1_3fef347e37.png"
+                                    }
+                                },
+                                "hash": "bird_banner_1_3fef347e37",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 17.13,
+                                "url": "https://storage.googleapis.com/cms-devtest/bird_banner_1_3fef347e37.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:42:04.000Z",
+                                "updated_at": "2022-02-09T05:42:04.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": null
+                },
+                {
+                    "label": "Perches and Toys",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Perches",
+                            "slug": "/bird/perches-and-toys/perches",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hanging Toys",
+                            "slug": "/bird/perches-and-toys/hanging-toys",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Activity Toys",
+                            "slug": "/bird/perches-and-toys/activity-toys",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Foraging Toys",
+                            "slug": "/bird/perches-and-toys/foraging-toys",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Swing Toys",
+                            "slug": "/bird/perches-and-toys/swing-toys",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Bird Gyms",
+                            "slug": "/bird/perches-and-toys/bird-gyms",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Perches and Toys",
+                        "slug": "/bird/perches-and-toys",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Other Supplies",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Cages and Accessories",
+                            "slug": "/bird/cages-and-accessories",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Treats",
+                            "slug": "/bird/treats",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Health and Grooming",
+                            "slug": "/bird/health-and-grooming",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Feeding Accessories",
+                            "slug": "/bird/feeding-accessories",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Bedding and Nesting",
+                            "slug": "/bird/bedding-and-nesting",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Supplies",
+                        "slug": "/bird",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop by Species",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "mobile",
+                    "children": [
+                        {
+                            "label": "Chicken",
+                            "slug": "/bird?breed=chickens",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Wild Bird",
+                            "slug": "/bird?breed=wild-bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Parrot",
+                            "slug": "/bird?breed=parrot",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Budgie",
+                            "slug": "/bird?breed=budgie",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Finch",
+                            "slug": "/bird?breed=finch",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Cockatiel",
+                            "slug": "/bird?breed=cockatiel",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Top Bird Brands",
+                    "slug": "#",
+                    "tag": null,
+                    "style": "none",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Barastoc",
+                            "slug": "/barastoc?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Birdie",
+                            "slug": "/birdie?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Harmony",
+                            "slug": "/harmony?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Kazoo",
+                            "slug": "/kazoo?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Laucke",
+                            "slug": "/laucke?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Passwell",
+                            "slug": "/passwell?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Peckish",
+                            "slug": "/peckish?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Peters",
+                            "slug": "/peters?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Trill",
+                            "slug": "/trill?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Vetafarm",
+                            "slug": "/vetafarm?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Whistler",
+                            "slug": "/whistler?pet=bird",
+                            "isDisplayed": true,
+                            "style": "none",
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Brands",
+                        "slug": "/bird",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [],
+                    "avatar": null
+                },
+                {
+                    "label": "Shop All Bird",
+                    "slug": "/bird",
+                    "tag": null,
+                    "style": "bordered",
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [],
+                    "footer": null,
+                    "banners": [],
+                    "avatar": null
+                }
+            ],
+            "avatar": null
+        },
+        {
+            "label": "Other Pets",
+            "slug": "#",
+            "children": [
+                {
+                    "label": "Fish",
+                    "slug": "#",
+                    "tag": null,
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Food",
+                            "slug": "/fish/food",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Water Care",
+                            "slug": "/fish/water-care",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Filters and Media",
+                            "slug": "/fish/filters-and-media",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Tanks and Aquariums",
+                            "slug": "/fish/tanks-and-aquariums",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Cleaning and Maintenance",
+                            "slug": "/fish/cleaning-and-maintenance",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Decorations",
+                            "slug": "/fish/decorations",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Heating and Lighting",
+                            "slug": "/fish/heating-and-lighting",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Pumps",
+                            "slug": "/fish/pumps",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Health",
+                            "slug": "/fish/health",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Feeding",
+                            "slug": "/fish/feeding",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Shop Sale",
+                            "slug": "/sale?pet=fish",
+                            "isDisplayed": true,
+                            "style": "bordered",
+                            "displayTo": "mobile",
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Fish",
+                        "slug": "/fish",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/setting-up-a-fish-tank",
+                            "banner": {
+                                "id": 21,
+                                "name": "fish-1.jpg",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 615,
+                                "height": 150,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_fish-1.jpg",
+                                        "hash": "thumbnail_fish_1_6d58598b29",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 4.62,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_fish_1_6d58598b29.jpg"
+                                    }
+                                },
+                                "hash": "fish_1_6d58598b29",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 15.85,
+                                "url": "https://storage.googleapis.com/cms-devtest/fish_1_6d58598b29.jpg",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:12:30.000Z",
+                                "updated_at": "2022-02-14T04:12:30.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/fish-food-guide",
+                            "banner": {
+                                "id": 20,
+                                "name": "fish-2.jpg",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 615,
+                                "height": 150,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_fish-2.jpg",
+                                        "hash": "thumbnail_fish_2_6e8ed80b9f",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 4.45,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_fish_2_6e8ed80b9f.jpg"
+                                    }
+                                },
+                                "hash": "fish_2_6e8ed80b9f",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 15.95,
+                                "url": "https://storage.googleapis.com/cms-devtest/fish_2_6e8ed80b9f.jpg",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:12:30.000Z",
+                                "updated_at": "2022-02-14T04:12:30.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": {
+                        "id": 3,
+                        "name": "bird-avatar.png",
+                        "alternativeText": "",
+                        "caption": "",
+                        "width": 40,
+                        "height": 40,
+                        "formats": null,
+                        "hash": "bird_avatar_b91a269ecb",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 1.88,
+                        "url": "https://storage.googleapis.com/cms-devtest/bird_avatar_b91a269ecb.png",
+                        "previewUrl": null,
+                        "provider": "gcp-storage",
+                        "provider_metadata": null,
+                        "created_at": "2022-02-09T05:42:03.000Z",
+                        "updated_at": "2022-02-09T05:42:03.000Z",
+                        "folder": null
+                    }
+                },
+                {
+                    "label": "Small Pet",
+                    "slug": "#",
+                    "tag": null,
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Food",
+                            "slug": "/small-pet/food",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Treats",
+                            "slug": "/small-pet/treats",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Bedding and Clean Up",
+                            "slug": "/small-pet/bedding-and-clean-up",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Toys and Hideaways",
+                            "slug": "/small-pet/toys-and-hideaways",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Feeding Accessories",
+                            "slug": "/small-pet/feeding-accessories",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Cages and Accessories",
+                            "slug": "/small-pet/cages-and-accessories",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Grooming",
+                            "slug": "/small-pet/grooming",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Health",
+                            "slug": "/small-pet/health",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Harnesses and Leads",
+                            "slug": "/small-pet/harnesses-and-leads",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Beds",
+                            "slug": "/small-pet/beds",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Shop Sale",
+                            "slug": "/sale?pet=small-pet",
+                            "isDisplayed": true,
+                            "style": "bordered",
+                            "displayTo": "mobile",
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Small Pet",
+                        "slug": "/small-pet",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/what-to-feed-rats-rabbits-guinea-pigs",
+                            "banner": {
+                                "id": 18,
+                                "name": "small-pet-banner-1.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 103,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_small-pet-banner-1.png",
+                                        "hash": "thumbnail_small_pet_banner_1_cc56e00d27",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 29.93,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_small_pet_banner_1_cc56e00d27.png"
+                                    }
+                                },
+                                "hash": "small_pet_banner_1_cc56e00d27",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 63.54,
+                                "url": "https://storage.googleapis.com/cms-devtest/small_pet_banner_1_cc56e00d27.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:51:46.000Z",
+                                "updated_at": "2022-02-09T05:51:46.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/best-toys-for-pocket-pets",
+                            "banner": {
+                                "id": 19,
+                                "name": "small-pet-banner-2.png",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 420,
+                                "height": 103,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_small-pet-banner-2.png",
+                                        "hash": "thumbnail_small_pet_banner_2_142f5c73e6",
+                                        "ext": ".png",
+                                        "mime": "image/png",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 23.28,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_small_pet_banner_2_142f5c73e6.png"
+                                    }
+                                },
+                                "hash": "small_pet_banner_2_142f5c73e6",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "size": 52.16,
+                                "url": "https://storage.googleapis.com/cms-devtest/small_pet_banner_2_142f5c73e6.png",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-09T05:51:46.000Z",
+                                "updated_at": "2022-02-09T05:51:46.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": {
+                        "id": 8,
+                        "name": "vet-pet-plan.png",
+                        "alternativeText": "",
+                        "caption": "",
+                        "width": 420,
+                        "height": 112,
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_vet-pet-plan.png",
+                                "hash": "thumbnail_vet_pet_plan_7566623b71",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "width": 245,
+                                "height": 65,
+                                "size": 17.78,
+                                "path": null,
+                                "url": "https://storage.googleapis.com/cms-devtest/thumbnail_vet_pet_plan_7566623b71.png"
+                            }
+                        },
+                        "hash": "vet_pet_plan_7566623b71",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 25.55,
+                        "url": "https://storage.googleapis.com/cms-devtest/vet_pet_plan_7566623b71.png",
+                        "previewUrl": null,
+                        "provider": "gcp-storage",
+                        "provider_metadata": null,
+                        "created_at": "2022-02-09T05:42:04.000Z",
+                        "updated_at": "2022-02-09T05:42:04.000Z",
+                        "folder": null
+                    }
+                },
+                {
+                    "label": "Reptile",
+                    "slug": "#",
+                    "tag": null,
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Food",
+                            "slug": "/reptile/food",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Heating and Lighting",
+                            "slug": "/reptile/heating-and-lighting",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Tanks and Terrariums",
+                            "slug": "/reptile/tanks-and-terrariums",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Bedding and Substrate",
+                            "slug": "/reptile/bedding-and-substrate",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Habitats and Habitat Accessories",
+                            "slug": "/reptile/habitats-and-habitat-accessories",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Filters and Media",
+                            "slug": "/reptile/filters-and-media",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Feeding Accessories",
+                            "slug": "/reptile/feeding-accessories",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Clean Up",
+                            "slug": "/reptile/clean-up",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Health",
+                            "slug": "/reptile/clean-up",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Shop Sale",
+                            "slug": "/sale?pet=reptile",
+                            "isDisplayed": true,
+                            "style": "bordered",
+                            "displayTo": "mobile",
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Reptile",
+                        "slug": "/reptile",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/beginners-guide-to-reptile-care",
+                            "banner": {
+                                "id": 23,
+                                "name": "reptile-1.jpg",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 615,
+                                "height": 150,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_reptile-1.jpg",
+                                        "hash": "thumbnail_reptile_1_07cab2e167",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 4.45,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_reptile_1_07cab2e167.jpg"
+                                    }
+                                },
+                                "hash": "reptile_1_07cab2e167",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 16.01,
+                                "url": "https://storage.googleapis.com/cms-devtest/reptile_1_07cab2e167.jpg",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:12:30.000Z",
+                                "updated_at": "2022-02-14T04:12:30.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/reptile-supplements",
+                            "banner": {
+                                "id": 22,
+                                "name": "reptile-2.jpg",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 615,
+                                "height": 150,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_reptile-2.jpg",
+                                        "hash": "thumbnail_reptile_2_c5e9cad835",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 5.09,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_reptile_2_c5e9cad835.jpg"
+                                    }
+                                },
+                                "hash": "reptile_2_c5e9cad835",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 18.53,
+                                "url": "https://storage.googleapis.com/cms-devtest/reptile_2_c5e9cad835.jpg",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:12:30.000Z",
+                                "updated_at": "2022-02-14T04:12:30.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": {
+                        "id": 7,
+                        "name": "bird-banner-2.png",
+                        "alternativeText": "",
+                        "caption": "",
+                        "width": 420,
+                        "height": 103,
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_bird-banner-2.png",
+                                "hash": "thumbnail_bird_banner_2_518543d29b",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "width": 245,
+                                "height": 60,
+                                "size": 24.34,
+                                "path": null,
+                                "url": "https://storage.googleapis.com/cms-devtest/thumbnail_bird_banner_2_518543d29b.png"
+                            }
+                        },
+                        "hash": "bird_banner_2_518543d29b",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 17.15,
+                        "url": "https://storage.googleapis.com/cms-devtest/bird_banner_2_518543d29b.png",
+                        "previewUrl": null,
+                        "provider": "gcp-storage",
+                        "provider_metadata": null,
+                        "created_at": "2022-02-09T05:42:04.000Z",
+                        "updated_at": "2022-02-09T05:42:04.000Z",
+                        "folder": null
+                    }
+                },
+                {
+                    "label": "Horse",
+                    "slug": "#",
+                    "tag": null,
+                    "style": null,
+                    "isDisplayed": true,
+                    "displayTo": "both",
+                    "children": [
+                        {
+                            "label": "Food",
+                            "slug": "/horse/food",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Health",
+                            "slug": "/horse/health",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Wormers and Insect Repellents",
+                            "slug": "/horse/wormers-and-insect-repellents",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Hoof Care",
+                            "slug": "/horse/hoof-care",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Grooming",
+                            "slug": "/horse/grooming",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Treats",
+                            "slug": "/horse/treats",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Saddlery and Accessories",
+                            "slug": "/horse/saddlery-and-accessories",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Toys",
+                            "slug": "/horse/toys",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Stable Supplies",
+                            "slug": "/horse/stable-supplies",
+                            "isDisplayed": true,
+                            "style": null,
+                            "displayTo": null,
+                            "footer": null,
+                            "children": []
+                        },
+                        {
+                            "label": "Shop Sale",
+                            "slug": "/sale?pet=horse",
+                            "isDisplayed": true,
+                            "style": "bordered",
+                            "displayTo": "mobile",
+                            "footer": null,
+                            "children": []
+                        }
+                    ],
+                    "footer": {
+                        "label": "Shop all Horse",
+                        "slug": "/horse",
+                        "style": "underlined_teal",
+                        "isDisplayed": true
+                    },
+                    "banners": [
+                        {
+                            "bannerLink": "/discover/horse-feeding-guide",
+                            "banner": {
+                                "id": 25,
+                                "name": "horse-1.jpg",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 615,
+                                "height": 150,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_horse-1.jpg",
+                                        "hash": "thumbnail_horse_1_b6223cd41a",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 4.36,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_horse_1_b6223cd41a.jpg"
+                                    }
+                                },
+                                "hash": "horse_1_b6223cd41a",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 15.18,
+                                "url": "https://storage.googleapis.com/cms-devtest/horse_1_b6223cd41a.jpg",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:12:30.000Z",
+                                "updated_at": "2022-02-14T04:12:30.000Z",
+                                "folder": null
+                            }
+                        },
+                        {
+                            "bannerLink": "/discover/best-supplements-for-horses",
+                            "banner": {
+                                "id": 24,
+                                "name": "horse-2.jpg",
+                                "alternativeText": "",
+                                "caption": "",
+                                "width": 615,
+                                "height": 150,
+                                "formats": {
+                                    "thumbnail": {
+                                        "name": "thumbnail_horse-2.jpg",
+                                        "hash": "thumbnail_horse_2_8383164b52",
+                                        "ext": ".jpg",
+                                        "mime": "image/jpeg",
+                                        "width": 245,
+                                        "height": 60,
+                                        "size": 5.11,
+                                        "path": null,
+                                        "url": "https://storage.googleapis.com/cms-devtest/thumbnail_horse_2_8383164b52.jpg"
+                                    }
+                                },
+                                "hash": "horse_2_8383164b52",
+                                "ext": ".jpg",
+                                "mime": "image/jpeg",
+                                "size": 19.34,
+                                "url": "https://storage.googleapis.com/cms-devtest/horse_2_8383164b52.jpg",
+                                "previewUrl": null,
+                                "provider": "gcp-storage",
+                                "provider_metadata": null,
+                                "created_at": "2022-02-14T04:12:30.000Z",
+                                "updated_at": "2022-02-14T04:12:30.000Z",
+                                "folder": null
+                            }
+                        }
+                    ],
+                    "avatar": {
+                        "id": 6,
+                        "name": "chat-to-vet.png",
+                        "alternativeText": "",
+                        "caption": "",
+                        "width": 420,
+                        "height": 112,
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_chat-to-vet.png",
+                                "hash": "thumbnail_chat_to_vet_971e20a4c2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "width": 245,
+                                "height": 65,
+                                "size": 15.99,
+                                "path": null,
+                                "url": "https://storage.googleapis.com/cms-devtest/thumbnail_chat_to_vet_971e20a4c2.png"
+                            }
+                        },
+                        "hash": "chat_to_vet_971e20a4c2",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 23.49,
+                        "url": "https://storage.googleapis.com/cms-devtest/chat_to_vet_971e20a4c2.png",
+                        "previewUrl": null,
+                        "provider": "gcp-storage",
+                        "provider_metadata": null,
+                        "created_at": "2022-02-09T05:42:04.000Z",
+                        "updated_at": "2022-02-09T05:42:04.000Z",
+                        "folder": null
+                    }
+                }
+            ],
+            "avatar": null
+        },
+        {
+            "label": "Brands",
+            "slug": "/brand",
+            "children": [],
+            "avatar": null
+        },
+        {
+            "label": "Vet Tips",
+            "slug": "/discover",
+            "children": [],
+            "avatar": null
+        }
+    ]
+}

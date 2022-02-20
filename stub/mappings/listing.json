@@ -1,0 +1,42 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/listing/products",
+        "params": {
+          "productFilter.contextPath": "/dog/food/dry-food"
+        }
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "listing/listing-dog-dry-food.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/listing/products",
+        "params": {
+          "productFilter.contextPath": "/dog/food"
+        }
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "listing/listing-dog-food.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "listingProductDtos": [
+            {
+                "productName": "black-hawk-dry-dog-food-adult-chicken-and-rice",
+                "skus": [
+                    "BCRA20",
+                    "BCRA20VO2X",
+                    "BCRA3",
+                    "BCRA3VO2X",
+                    "DPB0070"
+                ],
+                "defaultSku": "BCRA20",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "black-hawk-dry-dog-food-adult-lamb-and-rice",
+                "skus": [
+                    "BLRA20",
+                    "BLRA20VO2X",
+                    "BLRA3",
+                    "BLRA3VO2X",
+                    "DPB0110"
+                ],
+                "defaultSku": "BLRA20",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "instinctive-bite-grain-free-adult-dry-dog-food-kangaroo-sweet-potato",
+                "skus": [
+                    "IBGFKP05",
+                    "IBGFKP05VO2X",
+                    "IBGFKP15"
+                ],
+                "defaultSku": "IBGFKP15",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-maxi-adult-dry-dog-food",
+                "skus": [
+                    "RC40859",
+                    "RC40859VO2X",
+                    "RC40989",
+                    "RC40989VO2X"
+                ],
+                "defaultSku": "RC40989",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-large-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "269143",
+                    "269143VO2X",
+                    "M216257"
+                ],
+                "defaultSku": "269143",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "instinctive-bite-grain-free-adult-dry-dog-food-chicken-sweet-potato",
+                "skus": [
+                    "IBGFCP05",
+                    "IBGFCP05VO2X",
+                    "IBGFCP15"
+                ],
+                "defaultSku": "IBGFCP15",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-adult-healthy-mobility-large-breed-dry-dog-food",
+                "skus": [
+                    "10344HG",
+                    "10344HGVO2X"
+                ],
+                "defaultSku": "10344HG",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "black-hawk-dry-dog-food-large-breed-adult-chicken-and-rice",
+                "skus": [
+                    "BH03980",
+                    "BH03980VO2X"
+                ],
+                "defaultSku": "BH03980",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-labrador-retriever-puppy-dry-dog-food",
+                "skus": [
+                    "RC42657",
+                    "RC42657VO2X",
+                    "RC42669",
+                    "RC42669VO2X"
+                ],
+                "defaultSku": "RC42669",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-adult-perfect-weight-dry-dog-food",
+                "skus": [
+                    "H10116",
+                    "H2966",
+                    "H2972"
+                ],
+                "defaultSku": "H10116",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-medium-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "M174996",
+                    "M174996VO2X",
+                    "M175094",
+                    "M269154",
+                    "M269154VO2X"
+                ],
+                "defaultSku": "M269154",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-large-puppy-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "M199024",
+                    "M199024VO2X",
+                    "M199045",
+                    "M269152",
+                    "M269152VO2X"
+                ],
+                "defaultSku": "M269152",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-german-shepherd-adult-dry-dog-food",
+                "skus": [
+                    "RC25534",
+                    "RC25534VO2X"
+                ],
+                "defaultSku": "RC25534",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-medium-adult-dry-dog-food-lamb-with-rice",
+                "skus": [
+                    "283200",
+                    "283200VO2X",
+                    "M268971",
+                    "M269157",
+                    "M269157VO2X"
+                ],
+                "defaultSku": "283200",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-adult-dry-dog-food",
+                "skus": [
+                    "10313HG",
+                    "10313HGVO2X",
+                    "H6486",
+                    "H6487",
+                    "H6488HG"
+                ],
+                "defaultSku": "H6488HG",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-vet-essentials-canine-adult",
+                "skus": [
+                    "20715",
+                    "20716",
+                    "20717"
+                ],
+                "defaultSku": "20715",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-golden-retriever-adult-dry-dog-food",
+                "skus": [
+                    "RC12851",
+                    "RC12851VO2X"
+                ],
+                "defaultSku": "RC12851",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-medium-adult-dry-dog-food",
+                "skus": [
+                    "RC40851",
+                    "RC40851VO2X",
+                    "RC41115",
+                    "RC41115VO2X"
+                ],
+                "defaultSku": "RC41115",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "eukanuba-adult-large-breed-dry-dog-food",
+                "skus": [
+                    "P22991"
+                ],
+                "defaultSku": "P22991",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-adult-large-breed-dry-dog-food",
+                "skus": [
+                    "10315HG"
+                ],
+                "defaultSku": "10315HG",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "k9-natural-beef-feast",
+                "skus": [
+                    "9421900779031",
+                    "9421900779123",
+                    "9421900779154"
+                ],
+                "defaultSku": "9421900779031",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "pro-plan-adult-sensitive-skin-stomach-dry-dog-food",
+                "skus": [
+                    "12284193X",
+                    "12347811",
+                    "12347811VO2X"
+                ],
+                "defaultSku": "12347811",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "instinctive-bite-original-large-breed-adult-dry-dog-food-chicken-brown-rice",
+                "skus": [
+                    "IBOALBCBR15"
+                ],
+                "defaultSku": "IBOALBCBR15",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-healthy-weight-large-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "283198",
+                    "M268974",
+                    "M268974VO2X"
+                ],
+                "defaultSku": "283198",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-bulldog-adult-dry-dog-food",
+                "skus": [
+                    "RC40174"
+                ],
+                "defaultSku": "RC40174",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-giant-adult-dry-dog-food",
+                "skus": [
+                    "RC40898"
+                ],
+                "defaultSku": "RC40898",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-maxi-ageing-8-plus-senior-dry-dog-food",
+                "skus": [
+                    "RC18149"
+                ],
+                "defaultSku": "RC18149",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-rottweiler-adult-dry-dog-food",
+                "skus": [
+                    "RC12840"
+                ],
+                "defaultSku": "RC12840",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "black-hawk-dry-dog-food-adult-working-dog-lamb-and-beef",
+                "skus": [
+                    "BH210",
+                    "BH210VO2X"
+                ],
+                "defaultSku": "BH210",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "instinctive-bite-original-adult-dry-dog-food-chicken-brown-rice",
+                "skus": [
+                    "IBOCBR05",
+                    "IBOCBR05VO2X",
+                    "IBOCBR15"
+                ],
+                "defaultSku": "IBOCBR15",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-golden-retriever-puppy-dry-dog-food",
+                "skus": [
+                    "RC13522",
+                    "RC13522VO2"
+                ],
+                "defaultSku": "RC13522",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-maxi-digestive-care-adult-dry-dog-food",
+                "skus": [
+                    "RC27180"
+                ],
+                "defaultSku": "RC27180",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-adult-large-breed-light-dry-dog-food",
+                "skus": [
+                    "10318HG",
+                    "10318HGVO2X"
+                ],
+                "defaultSku": "10318HG",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-medium-puppy-dry-dog-food",
+                "skus": [
+                    "RC40849",
+                    "RC40849VO2X",
+                    "RC41116",
+                    "RC41116VO2X"
+                ],
+                "defaultSku": "RC41116",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "meals-for-mutts-dry-dog-food-large-breed-adult-salmon-and-sardine",
+                "skus": [
+                    "DSSLS9",
+                    "M5179",
+                    "M5179VO2X"
+                ],
+                "defaultSku": "M5179",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "meals-for-mutts-grain-free-dry-dog-food-adult-salmon-and-sardine",
+                "skus": [
+                    "M5181",
+                    "M5183",
+                    "M5183VO2X",
+                    "MFM5182"
+                ],
+                "defaultSku": "M5183",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-giant-junior-dry-dog-food",
+                "skus": [
+                    "RC40897"
+                ],
+                "defaultSku": "RC40897",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-puppy-large-breed-dry-dog-food",
+                "skus": [
+                    "10341HG",
+                    "H6481",
+                    "H9376"
+                ],
+                "defaultSku": "10341HG",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-maxi-puppy-dry-dog-food",
+                "skus": [
+                    "RC40857",
+                    "RC40857VO2X",
+                    "RC40988",
+                    "RC40988VO2"
+                ],
+                "defaultSku": "RC40988",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "hills-science-diet-adult-oral-care-dry-dog-food",
+                "skus": [
+                    "H1137HG",
+                    "H1139HG",
+                    "H1139HGVO2X"
+                ],
+                "defaultSku": "H1139HG",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "instinctive-bite-grain-free-large-breed-adult-dry-dog-food-chicken-sweet-potato",
+                "skus": [
+                    "IBGFALBCP15"
+                ],
+                "defaultSku": "IBGFALBCP15",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "black-hawk-dry-dog-food-large-breed-puppy-chicken-and-rice",
+                "skus": [
+                    "BH03981",
+                    "BH03981VO2X",
+                    "BH04042"
+                ],
+                "defaultSku": "BH03981",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-maxi-dermacomfort-care-adult-dry-dog-food",
+                "skus": [
+                    "RC27178"
+                ],
+                "defaultSku": "RC27178",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-medium-digestive-care-adult-dry-dog-food",
+                "skus": [
+                    "RC27194",
+                    "RC40854",
+                    "RC40854VO2X"
+                ],
+                "defaultSku": "RC27194",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "black-hawk-grain-free-dry-dog-food-adult-chicken",
+                "skus": [
+                    "BH00317",
+                    "BH00317VO4X",
+                    "BH00318",
+                    "BH00319"
+                ],
+                "defaultSku": "BH00319",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "eukanuba-adult-medium-breed-dry-dog-food",
+                "skus": [
+                    "M342208",
+                    "P14537",
+                    "P14591"
+                ],
+                "defaultSku": "P14591",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-healthy-ageing-medium-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "M374968",
+                    "M374973"
+                ],
+                "defaultSku": "M374973",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "ivory-coat-grain-free-dry-dog-food-adult-turkey-and-duck",
+                "skus": [
+                    "1000007",
+                    "1000007VO2X",
+                    "1000632",
+                    "1000632VO2X"
+                ],
+                "defaultSku": "1000632",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-cocker-spaniel-adult-dry-dog-food",
+                "skus": [
+                    "RC18888",
+                    "RC18888VO2X",
+                    "RC18889"
+                ],
+                "defaultSku": "RC18889",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "ivory-coat-grain-free-dry-dog-food-lamb-and-kangaroo",
+                "skus": [
+                    "1000021",
+                    "1000021VO2X",
+                    "1000649",
+                    "1000649VO2X"
+                ],
+                "defaultSku": "1000649",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "advance-active-adult-dry-dog-food-chicken-with-rice",
+                "skus": [
+                    "M374963",
+                    "M374963VO2X",
+                    "M379032"
+                ],
+                "defaultSku": "M379032",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            },
+            {
+                "productName": "royal-canin-giant-puppy-dry-dog-food",
+                "skus": [
+                    "RC40896"
+                ],
+                "defaultSku": "RC40896",
+                "displaySkuSizes": true,
+                "displayOrderReversed": true
+            }
+        ],
+        "totalCount": 446,
+        "inset": null,
+        "insets": null,
+        "allProductTags": {
+            "Pet": {
+                "Dog": 446
+            },
+            "Category": {
+                "Food": 446
+            },
+            "Variety": {
+                "Natural Food": 203,
+                "Freeze and Air Dried": 29,
+                "Meal Toppers": 6,
+                "Premium": 310
+            },
+            "Type": {
+                "Dry Food": 446
+            },
+            "Brand": {
+                "Advance": 29,
+                "Black Hawk": 16,
+                "Hills Science Diet": 42,
+                "Instinctive Bite": 11,
+                "Ivory Coat": 15,
+                "Meals For Mutts": 14,
+                "Royal Canin": 68,
+                "Supercoat": 10,
+                "Taste of the Wild": 16,
+                "Ziwi": 9,
+                "Absolute Holistic": 5,
+                "Acana": 5,
+                "Applaws": 3,
+                "Artemis": 2,
+                "Balanced Life": 7,
+                "Bonnie": 4,
+                "Canidae": 6,
+                "Crave": 3,
+                "Diamond": 9,
+                "Earthborn Holistic": 6,
+                "Eukanuba": 14,
+                "Farmers Market": 2,
+                "Healthy Everyday Pets": 5,
+                "Holistic Select": 13,
+                "Howl Yes": 6,
+                "Hypro Premium": 4,
+                "K9 Natural": 11,
+                "Lucky Dog": 5,
+                "Meat Mates": 2,
+                "My Dog": 2,
+                "Natures Gift": 3,
+                "Natures Goodness": 2,
+                "Nutra Gold": 3,
+                "Open Farm": 8,
+                "Optimum": 15,
+                "Orijen": 6,
+                "Pedigree": 5,
+                "Prime100": 4,
+                "Pro Plan": 12,
+                "SavourLife": 9,
+                "Stockman and Paddock": 2,
+                "Supercoat True Origin": 3,
+                "The New Zealand Natural": 3,
+                "Vetalogica": 9,
+                "Vets All Natural": 4,
+                "Wellness": 13,
+                "XP3020": 1
+            },
+            "Feature": {
+                "Australian Made": 189,
+                "Grain Free": 134,
+                "Human Grade": 8,
+                "Hypoallergenic": 14,
+                "Limited Ingredients": 8,
+                "Single Source Protein": 18,
+                "Superfood": 20,
+                "Sustainable": 12
+            },
+            "Health Condition": {
+                "Anxiety": 3,
+                "Bad Breath": 7,
+                "Dental Health": 7,
+                "Dry or Itchy Skin": 5,
+                "Food Allergies": 4,
+                "Joint Problems": 4,
+                "Odour": 9,
+                "Overweight": 23,
+                "Sensitive Skin": 15,
+                "Sensitive Stomach": 14
+            },
+            "Breed Size": {
+                "Small": 67,
+                "Medium": 25,
+                "Large": 68,
+                "Giant": 31
+            },
+            "Lifestage": {
+                "Puppy": 80,
+                "Senior": 32
+            },
+            "Breed": {
+                "American Staffordshire": 1,
+                "Beagle": 1,
+                "Bernese Mountain Dog": 1,
+                "Boston Terrier": 2,
+                "Boxer": 2,
+                "Bull Terrier": 1,
+                "Bulldog": 2,
+                "Cavalier King Charles Spaniel": 2,
+                "Cavoodle": 2,
+                "Chihuahua": 2,
+                "Cocker Spaniel": 2,
+                "Dachshund": 3,
+                "Fox Terrier": 1,
+                "French Bulldog": 2,
+                "German Shepherd": 3,
+                "Golden Retriever": 2,
+                "Goldendoodle": 2,
+                "Jack Russell Terrier": 2,
+                "Labradoodle": 2,
+                "Labrador": 2,
+                "Maltese": 1,
+                "Miniature Schnauzer": 3,
+                "Poodle": 2,
+                "Poodle Toy": 2,
+                "Pug": 2,
+                "Rottweiler": 2,
+                "Shih Tzu": 2,
+                "Spoodle": 2,
+                "Staffordshire Bull Terrier": 1,
+                "West Highland Terrier": 2,
+                "Yorkshire Terrier": 1
+            },
+            "Protein Source": {
+                "Chicken": 195,
+                "Beef": 26,
+                "Kangaroo": 16,
+                "Turkey": 25,
+                "Venison": 5,
+                "Bison": 2,
+                "Duck": 8,
+                "Fish Protein": 36,
+                "Goat": 1,
+                "Lamb": 54,
+                "Pork": 3,
+                "Poultry": 50,
+                "Salmon": 19
+            },
+            "Country of Manufacture": {
+                "Australia": 184,
+                "New Zealand": 30,
+                "United States": 119
+            }
+        },
+        "minPrice": 7,
+        "maxPrice": 305,
+        "totalReviews": 8526,
+        "averageRating": 4.643861,
+        "paginateDefaultOption": 52,
+        "paginateAllOptions": [
+            52,
+            200
+        ],
+        "ratingFilter": null
+    }
+}

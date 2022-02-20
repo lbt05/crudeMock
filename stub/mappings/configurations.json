@@ -1,0 +1,108 @@
+{
+    "mappings": [
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/listing-pages.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "listing-pages.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/product-videos-list.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product-videos-list.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/mega-nav.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "configuration/mega-nav.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/website-header.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "configuration/website-header.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/toggle-settings.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "configuration/toggle-settings.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/discover-articles-seo.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "configuration/discover-articles-seo.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/robots.json"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "configuration/robots.json",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/configuration/listImagesInOrigFolder"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "configuration/listImagesInOrigFolder",
+                "transformers": [
+                    "body-transformer"
+                ]
+            }
+        }
+    ]
+}

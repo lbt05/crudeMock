@@ -1,0 +1,10 @@
+{
+    "postcode": {
+      "message": "Order now for estimated delivery by {eta}",
+      "link": "/shipping-policy"
+    },
+    "no-postcode": {
+      "message": "Free metro shipping on orders $49+",
+      "link": "/shipping-policy"
+    }
+  }

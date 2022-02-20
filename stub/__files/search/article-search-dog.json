@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "articles": [
+            {
+                "id": "why-do-dogs-dig",
+                "title": "Why do dogs dig"
+            },
+            {
+                "id": "do-dogs-dream",
+                "title": "Do dogs dream"
+            },
+            {
+                "id": "dog-scooting",
+                "title": "Dog scooting"
+            },
+            {
+                "id": "which-dog-brush-do-you-need",
+                "title": "Which dog brush do you need"
+            },
+            {
+                "id": "dog-myths",
+                "title": "Dog myths"
+            }
+        ]
+    }
+}

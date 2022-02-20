@@ -1,0 +1,20 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/review/summary"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "review/review-summary.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
+}

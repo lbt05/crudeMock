@@ -1,0 +1,155 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "promotions": {
+            "crave-dry-cat-food-chicken-bag": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "M416984": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "afp-doggies-rabbit-slipper": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "AFP3442": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "artemis-fresh-mix-kitten": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "afp-halloween-spider": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "wooden-beam-bridge-small": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "jw-isqueak-bone": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "92-43037": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "advance-dog-adult-chicken-and-rice-cans": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "savourlife-australian-kangaroo-fillets-dog-treats": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "CART35": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "lucky-dog-treats-bones-meat-lovers": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "nina-ottosson-wobble-bowl": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "OH69344": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "pro-plan-vet-diet-ur-urinary-wet-cat-food": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "aquatopia-betta-heater": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "AQ82430": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "pro-plan-adult-chicken-dry-cat-food": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "PP12433185": null,
+                    "PP12433186": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "kelato-swelldown-clay-poultice": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "WKSDCP225": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "fancy-feast-sliced-turkey-casserole": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "old-mother-hubbard-fresh-breath": {
+                "multibuyOffers": [],
+                "skuDiscounts": {},
+                "gwp": false,
+                "multibuy": false
+            },
+            "peckish-small-animal-health-treats-dental-care": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "NB540936": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "urs-radiating-rock": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "URS0401B": null,
+                    "URS0401A": null,
+                    "URS0401C": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "gigwi-crazy-ball-with-squeaker-green-blue": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "DAG2140": null
+                },
+                "gwp": false,
+                "multibuy": false
+            },
+            "homeopet-joint-stress": {
+                "multibuyOffers": [],
+                "skuDiscounts": {
+                    "HP20004": null
+                },
+                "gwp": false,
+                "multibuy": false
+            }
+        }
+    }
+}

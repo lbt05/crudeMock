@@ -1,0 +1,719 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "adoffers": [
+            {
+                "autoDeliveryId": 5,
+                "brand": "The Catsentials",
+                "fromDate": 1505916000000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 6,
+                "brand": "Natures Cuts",
+                "fromDate": 1505916000000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 7,
+                "brand": "Pure Treat Co",
+                "fromDate": 1506949200000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 10,
+                "brand": "Ivory Coat",
+                "fromDate": 1506607200000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 11,
+                "brand": "Advance",
+                "fromDate": 1506607200000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 12,
+                "brand": "Nutro",
+                "fromDate": 1506607200000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 13,
+                "brand": "Pro Plan",
+                "fromDate": 1506607200000,
+                "toDate": 1751205600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 15,
+                "brand": "Supercoat",
+                "fromDate": 1506607200000,
+                "toDate": 1751205600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 16,
+                "brand": "Hills Science Diet",
+                "fromDate": 1506607200000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 17,
+                "brand": "Hills Prescription Diet",
+                "fromDate": 1506607200000,
+                "toDate": 1735650000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 19,
+                "brand": "Total Care",
+                "fromDate": 1518526800000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 23,
+                "brand": "Optimum",
+                "fromDate": 1519563600000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 24,
+                "brand": "Catsan",
+                "fromDate": 1518958800000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 25,
+                "brand": "My Dog",
+                "fromDate": 1519563600000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 27,
+                "brand": "Catmate",
+                "fromDate": 1519563600000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 29,
+                "brand": "SavourLife",
+                "fromDate": 1520427600000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 30,
+                "brand": "Rufus and Coco",
+                "fromDate": 1598277600000,
+                "toDate": 1738242000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 31,
+                "brand": "Eukanuba",
+                "fromDate": 1525183200000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 32,
+                "brand": "Royal Canin Veterinary Diet",
+                "fromDate": 1525960800000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 33,
+                "brand": "K9 Natural",
+                "fromDate": 1529589600000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 34,
+                "brand": "Feline Natural",
+                "fromDate": 1529762400000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 35,
+                "brand": "Meat Mates",
+                "fromDate": 1529762400000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 36,
+                "brand": "Healthy Everyday Pets",
+                "fromDate": 1537711200000,
+                "toDate": 1738328400000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 37,
+                "brand": "NexGard",
+                "fromDate": 1539781200000,
+                "toDate": 1738242000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 38,
+                "brand": "Frontline",
+                "fromDate": 1539781200000,
+                "toDate": 1748613600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 39,
+                "brand": "Paragard",
+                "fromDate": 1539781200000,
+                "toDate": 1748613600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 41,
+                "brand": "Heartgard",
+                "fromDate": 1539781200000,
+                "toDate": 1748613600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 42,
+                "brand": "Nexgard Spectra",
+                "fromDate": 1542718800000,
+                "toDate": 1735909200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 43,
+                "brand": "Revolution",
+                "fromDate": 1542891600000,
+                "toDate": 1743339600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 44,
+                "brand": "Simparica",
+                "fromDate": 1542891600000,
+                "toDate": 1743339600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 45,
+                "brand": "WAG",
+                "fromDate": 1543928400000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 46,
+                "brand": "Instinctive Bite",
+                "fromDate": 1548075600000,
+                "toDate": 1703941200000,
+                "discountPercent": 20.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 47,
+                "brand": "Royal Canin",
+                "fromDate": 1550062800000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 48,
+                "brand": "Royal Canin",
+                "fromDate": 1550062800000,
+                "toDate": 1738242000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 50,
+                "brand": "Vetsense",
+                "fromDate": 1560348000000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 53,
+                "brand": "Holistic Select",
+                "fromDate": 1567432800000,
+                "toDate": 1740661200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 54,
+                "brand": "Whimzees",
+                "fromDate": 1567432800000,
+                "toDate": 1740661200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 55,
+                "brand": "Scrunch and Sticks",
+                "fromDate": 1569160800000,
+                "toDate": 1759154400000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 56,
+                "brand": "Greenies",
+                "fromDate": 1581253200000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 5.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 57,
+                "brand": "Hills Science Diet",
+                "fromDate": 1581944400000,
+                "toDate": 1740661200000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 59,
+                "brand": "Advance",
+                "fromDate": 1591279200000,
+                "toDate": 1749045600000,
+                "discountPercent": 15.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 60,
+                "brand": "My Dog",
+                "fromDate": 1591279200000,
+                "toDate": 1749045600000,
+                "discountPercent": 15.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 61,
+                "brand": "Optimum",
+                "fromDate": 1591279200000,
+                "toDate": 1749045600000,
+                "discountPercent": 15.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 62,
+                "brand": "Open Farm",
+                "fromDate": 1594821600000,
+                "toDate": 1752588000000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 50.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 63,
+                "brand": "PAW Blackmores",
+                "fromDate": 1599573600000,
+                "toDate": 1672405200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 67,
+                "brand": "Simparica Trio",
+                "fromDate": 1604581200000,
+                "toDate": 1762347600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 68,
+                "brand": "Paw and Spoon",
+                "fromDate": 1606222800000,
+                "toDate": 1738242000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 69,
+                "brand": "Artemis",
+                "fromDate": 1606741200000,
+                "toDate": 1756648800000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 70,
+                "brand": "Advocate",
+                "fromDate": 1609765200000,
+                "toDate": 1648645200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 71,
+                "brand": "Ezi LockOdour",
+                "fromDate": 1609419600000,
+                "toDate": 1672405200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 72,
+                "brand": "Vitalitae",
+                "fromDate": 1610974800000,
+                "toDate": 1738242000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 73,
+                "brand": "Supercoat",
+                "fromDate": 1611925200000,
+                "toDate": 1751292000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 74,
+                "brand": "Supercoat True Origin",
+                "fromDate": 1611925200000,
+                "toDate": 1751292000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 75,
+                "brand": "Earthborn Holistic",
+                "fromDate": 1609678800000,
+                "toDate": 1753884000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 76,
+                "brand": "Wellness Core",
+                "fromDate": 1615122000000,
+                "toDate": 1743339600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 77,
+                "brand": "Wellness Core",
+                "fromDate": 1615122000000,
+                "toDate": 1743339600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 78,
+                "brand": "Tropiclean",
+                "fromDate": 1615899600000,
+                "toDate": 1703941200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 80,
+                "brand": "Prime100",
+                "fromDate": 1617804000000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 81,
+                "brand": "Black Hawk",
+                "fromDate": 1618149600000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 82,
+                "brand": "Hypro Premium",
+                "fromDate": 1618322400000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 84,
+                "brand": "Sentinel",
+                "fromDate": 1619964000000,
+                "toDate": 1651586400000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 85,
+                "brand": "The Catsentials",
+                "fromDate": 1620309600000,
+                "toDate": 1767099600000,
+                "discountPercent": 20.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 86,
+                "brand": "Scrunch and Sticks",
+                "fromDate": 1621173600000,
+                "toDate": 1753020000000,
+                "discountPercent": 20.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 87,
+                "brand": "Dine",
+                "fromDate": 1625407200000,
+                "toDate": 1672405200000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 88,
+                "brand": "Instinctive Bite",
+                "fromDate": 1639486800000,
+                "toDate": 1703941200000,
+                "discountPercent": 20.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 89,
+                "brand": "Bell and Bone",
+                "fromDate": 1625752800000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 90,
+                "brand": "Howl Yes",
+                "fromDate": 1638104400000,
+                "toDate": 1703941200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 91,
+                "brand": "Royal Canin",
+                "fromDate": 1631023200000,
+                "toDate": 1738242000000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 92,
+                "brand": "Wellness",
+                "fromDate": 1631455200000,
+                "toDate": 1711717200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 93,
+                "brand": "Wellness",
+                "fromDate": 1631455200000,
+                "toDate": 1711717200000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 94,
+                "brand": "Black Hawk",
+                "fromDate": 1633352400000,
+                "toDate": 1767099600000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 96,
+                "brand": "Hills Prescription Diet",
+                "fromDate": 1632232800000,
+                "toDate": 1648645200000,
+                "discountPercent": 20.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 97,
+                "brand": "Credelio Plus",
+                "fromDate": 1632924000000,
+                "toDate": 1706360400000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 98,
+                "brand": "The Curious Box",
+                "fromDate": 1636894800000,
+                "toDate": 1735563600000,
+                "discountPercent": 15.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 99,
+                "brand": "Instinctive Bite",
+                "fromDate": 1637499600000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 0.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 100,
+                "brand": "Prime100",
+                "fromDate": 1639054800000,
+                "toDate": 1767099600000,
+                "discountPercent": 10.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": false
+            },
+            {
+                "autoDeliveryId": 101,
+                "brand": "ZamiPet",
+                "fromDate": 1640264400000,
+                "toDate": 1672405200000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 100.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 102,
+                "brand": "Blackcat",
+                "fromDate": 1642078800000,
+                "toDate": 1736600400000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 5.0,
+                "applyToAllSkus": true
+            },
+            {
+                "autoDeliveryId": 103,
+                "brand": "Blackdog",
+                "fromDate": 1642078800000,
+                "toDate": 1736600400000,
+                "discountPercent": 5.0,
+                "cofundedPercent": 5.0,
+                "applyToAllSkus": true
+            }
+        ]
+    }
+}

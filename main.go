@@ -62,7 +62,7 @@ func generateHandler(configurations []Mapping) func(context *gin.Context) {
 				headers = matchedMapping.Response.Headers
 			}
 		}
-
+		log.Println(bodyFile)
 		content, err := ioutil.ReadFile(filepath.Join("stub/__files", bodyFile))
 		if err != nil {
 			msg := context.Request.RequestURI + " file not found: " + bodyFile

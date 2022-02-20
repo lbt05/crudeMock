@@ -1,115 +1,116 @@
 {
-    "mappings": [
-        {
-            "request": {
-                "method": "GET",
-                "url": "/merch/mb/offers"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "empty-mb-offers.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
-        },
-        {
-            "request": {
-                "method": "GET",
-                "url": "/merch/gwp/offers"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "empty-gwp-offers.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
-        },{
-            "request": {
-                "method": "GET",
-                "url": "/merch/sku/effectivePrice"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "fake-bulk-price.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
-        },
-        {
-            "request": {
-                "method": "GET",
-                "url": "/merch/sku/:sku/effectivePrice"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "fake-price.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
-        },
-        {
-            "request": {
-                "method": "GET",
-                "url": "/merch/ad/redemption"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "empty-ad-redemption.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
-        },
-        {
-            "request": {
-                "method": "GET",
-                "url": "/merch/ad/offers"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "merch-ad-offers.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
-        },
-        {
-            "request": {
-                "method": "GET",
-                "url": "/merch/promotions"
-            },
-            "response": {
-                "status": 200,
-                "bodyFileName": "merch-promotion.json",
-                "transformers": [
-                    "body-transformer"
-                ],
-                "headers": {
-                    "Content-Type": "application/json"
-                }
-            }
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/mb/offers"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/empty-mb-offers.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
         }
-    ]
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/gwp/offers"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/empty-gwp-offers.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/sku/effectivePrice"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/fake-bulk-price.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/sku/:sku/effectivePrice"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/fake-price.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/ad/redemption"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/empty-ad-redemption.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/ad/offers"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/merch-ad-offers.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/promotions"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/merch-promotion.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
 }

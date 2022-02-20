@@ -1,0 +1,560 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "tagName": [
+            {
+                "id": 43,
+                "oldName": "Air Pumps and Air Stones",
+                "newName": "Air Pumps",
+                "createdTime": "2021-10-19T22:21:29Z"
+            },
+            {
+                "id": 262,
+                "oldName": "Aquarium Kits",
+                "newName": "Tanks and Aquariums",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 46,
+                "oldName": "Ball Thrower",
+                "newName": "Ball Throwers",
+                "createdTime": "2021-10-19T22:21:29Z"
+            },
+            {
+                "id": 280,
+                "oldName": "Beds and Hammocks",
+                "newName": "Beds",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 238,
+                "oldName": "Breeding and Nesting",
+                "newName": "Bedding and Nesting",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 241,
+                "oldName": "Cages and Clean Up",
+                "newName": "Cages and Accessories",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 13,
+                "oldName": "Cat Furniture",
+                "newName": "Trees and Condos",
+                "createdTime": "2021-10-15T01:51:01Z"
+            },
+            {
+                "id": 226,
+                "oldName": "Cat Litter",
+                "newName": "Litter and Accessories",
+                "createdTime": "2021-10-15T00:38:59Z"
+            },
+            {
+                "id": 55,
+                "oldName": "Catnap Toys",
+                "newName": "Catnip",
+                "createdTime": "2021-10-19T22:23:53Z"
+            },
+            {
+                "id": 58,
+                "oldName": "Chase Toys",
+                "newName": "Interactive Toys",
+                "createdTime": "2021-10-19T22:24:12Z"
+            },
+            {
+                "id": 61,
+                "oldName": "Chew",
+                "newName": "Chews",
+                "createdTime": "2021-10-19T22:24:12Z"
+            },
+            {
+                "id": 22,
+                "oldName": "Clay Litter",
+                "newName": "Clay",
+                "createdTime": "2021-10-15T01:52:08Z"
+            },
+            {
+                "id": 244,
+                "oldName": "Clean Up and Bedding",
+                "newName": "Bedding and Nesting",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 64,
+                "oldName": "Cleaning and Odour Control",
+                "newName": "Stain and Odour Removers",
+                "createdTime": "2021-10-19T22:24:12Z"
+            },
+            {
+                "id": 67,
+                "oldName": "Clumping Litter",
+                "newName": "Clumping",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 28,
+                "oldName": "Corn Litter",
+                "newName": "Corn",
+                "createdTime": "2021-10-15T01:52:17Z"
+            },
+            {
+                "id": 19,
+                "oldName": "Crystal Litter",
+                "newName": "Crystal",
+                "createdTime": "2021-10-15T01:52:04Z"
+            },
+            {
+                "id": 259,
+                "oldName": "Crystals",
+                "newName": "Crystal",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 70,
+                "oldName": "Cushions",
+                "newName": "Cushions and Mats",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 73,
+                "oldName": "Dental",
+                "newName": "Dental Health",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 76,
+                "oldName": "Dental and Health Treats",
+                "newName": "Dental Treats",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 79,
+                "oldName": "Detangler",
+                "newName": "Detangling",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 82,
+                "oldName": "Diabetic",
+                "newName": "Diabetes",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 85,
+                "oldName": "Durable Toys",
+                "newName": "Tough",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 88,
+                "oldName": "Eco Friendly",
+                "newName": "Sustainable",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 91,
+                "oldName": "Feeding Mats",
+                "newName": "Feeding and Lick Mats",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 94,
+                "oldName": "Flea Treatment",
+                "newName": "Fleas",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 97,
+                "oldName": "Frisbee",
+                "newName": "Frisbees",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 100,
+                "oldName": "Gastrointestinal",
+                "newName": "Sensitive Stomach",
+                "createdTime": "2021-10-19T22:24:13Z"
+            },
+            {
+                "id": 103,
+                "oldName": "Glow",
+                "newName": "Glow and Light up",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 106,
+                "oldName": "GPS and Tracking",
+                "newName": "GPS Trackers",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 109,
+                "oldName": "Gravel Cleaners",
+                "newName": "Vacuums",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 112,
+                "oldName": "Guppies",
+                "newName": "Tropical Fish",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 274,
+                "oldName": "Habitat Accessories",
+                "newName": "Habitats and Habitat Accessories",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 115,
+                "oldName": "Hairball",
+                "newName": "Hairballs",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 118,
+                "oldName": "Hepatic",
+                "newName": "Liver Problems",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 121,
+                "oldName": "High Meat Content",
+                "newName": "Limited Ingredients",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 4,
+                "oldName": "Hoof Treatment",
+                "newName": "Hoofs Treatments",
+                "createdTime": "2021-10-14T02:36:58Z"
+            },
+            {
+                "id": 7,
+                "oldName": "Hoofs Treatment",
+                "newName": "Hoofs Treatments",
+                "createdTime": "2021-10-14T02:36:58Z"
+            },
+            {
+                "id": 271,
+                "oldName": "Horse Wormers",
+                "newName": "Wormers",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 124,
+                "oldName": "Light Up",
+                "newName": "Glow and Light Up",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 127,
+                "oldName": "Liquid Treats",
+                "newName": "Liquid and Paste Treats",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 10,
+                "oldName": "Litter",
+                "newName": "Litter and Accessories",
+                "createdTime": "2021-10-15T00:38:59Z"
+            },
+            {
+                "id": 130,
+                "oldName": "Litter Accessories",
+                "newName": "Litter Box Accessories",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 133,
+                "oldName": "Litter Trays",
+                "newName": "Litter Boxes",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 37,
+                "oldName": "Litter Trays and Accessories",
+                "newName": "Litter Boxes",
+                "createdTime": "2021-10-15T01:58:14Z"
+            },
+            {
+                "id": 136,
+                "oldName": "Little Homes",
+                "newName": "Hideouts",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 232,
+                "oldName": "mariusz test",
+                "newName": "mariusz test 2",
+                "createdTime": "2021-10-25T23:02:32Z"
+            },
+            {
+                "id": 139,
+                "oldName": "Mats",
+                "newName": "Cushions and Mats",
+                "createdTime": "2021-10-19T22:24:14Z"
+            },
+            {
+                "id": 253,
+                "oldName": "Minerals and Cuttlebone",
+                "newName": "Minerals and Cuttlebones",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 250,
+                "oldName": "Mirror",
+                "newName": "Mirrors",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 142,
+                "oldName": "Mobility",
+                "newName": "Joint Problems",
+                "createdTime": "2021-10-19T22:24:15Z"
+            },
+            {
+                "id": 229,
+                "oldName": "Natural Litter",
+                "newName": "Litter and Accessories",
+                "createdTime": "2021-10-15T00:38:59Z"
+            },
+            {
+                "id": 25,
+                "oldName": "Paper Litter",
+                "newName": "Paper",
+                "createdTime": "2021-10-15T01:52:12Z"
+            },
+            {
+                "id": 268,
+                "oldName": "Parasite Treatments",
+                "newName": "Bacteria and Fungal Treatments",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 145,
+                "oldName": "Peanut Butter",
+                "newName": "Peanut Butter Flavour",
+                "createdTime": "2021-10-19T22:26:52Z"
+            },
+            {
+                "id": 148,
+                "oldName": "Pet Access",
+                "newName": "Doors",
+                "createdTime": "2021-10-19T22:26:55Z"
+            },
+            {
+                "id": 151,
+                "oldName": "Pet Kit",
+                "newName": "Petkit",
+                "createdTime": "2021-10-19T22:27:05Z"
+            },
+            {
+                "id": 265,
+                "oldName": "Plastic Tanks",
+                "newName": "Plastic",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 154,
+                "oldName": "Pond Food",
+                "newName": "Pond",
+                "createdTime": "2021-10-19T22:27:08Z"
+            },
+            {
+                "id": 157,
+                "oldName": "Pond Health",
+                "newName": "Pond",
+                "createdTime": "2021-10-19T22:27:10Z"
+            },
+            {
+                "id": 160,
+                "oldName": "Pond Water Care",
+                "newName": "Pond",
+                "createdTime": "2021-10-19T22:27:12Z"
+            },
+            {
+                "id": 163,
+                "oldName": "Puzzle Feeder",
+                "newName": "Feeding and Lick Mats",
+                "createdTime": "2021-10-19T22:27:14Z"
+            },
+            {
+                "id": 235,
+                "oldName": "Ramps",
+                "newName": "Ramps and Stairs",
+                "createdTime": "2021-12-14T22:29:40Z"
+            },
+            {
+                "id": 166,
+                "oldName": "Rawhide Treats",
+                "newName": "Rawhide",
+                "createdTime": "2021-10-19T22:27:16Z"
+            },
+            {
+                "id": 169,
+                "oldName": "Renal",
+                "newName": "Kidney Problems",
+                "createdTime": "2021-10-19T22:27:18Z"
+            },
+            {
+                "id": 172,
+                "oldName": "Salt and Marine Supplements",
+                "newName": "Salt and Minerals",
+                "createdTime": "2021-10-19T22:27:21Z"
+            },
+            {
+                "id": 175,
+                "oldName": "Shampoos",
+                "newName": "Shampoo and Conditioner",
+                "createdTime": "2021-10-19T22:27:22Z"
+            },
+            {
+                "id": 178,
+                "oldName": "Skin and Coat",
+                "newName": "Dry or Itchy Skin",
+                "createdTime": "2021-10-19T22:27:24Z"
+            },
+            {
+                "id": 181,
+                "oldName": "Spray",
+                "newName": "Sprays",
+                "createdTime": "2021-10-19T22:27:26Z"
+            },
+            {
+                "id": 184,
+                "oldName": "Squeaky Toys",
+                "newName": "Squeaky",
+                "createdTime": "2021-10-19T22:27:28Z"
+            },
+            {
+                "id": 277,
+                "oldName": "Substrate and Clean Up",
+                "newName": "Bedding and Substrate",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 256,
+                "oldName": "Tablet",
+                "newName": "Tablets",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 283,
+                "oldName": "Tanks and Maintenance",
+                "newName": "Feeding",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 187,
+                "oldName": "Tech",
+                "newName": "Tech Toys",
+                "createdTime": "2021-10-19T22:27:29Z"
+            },
+            {
+                "id": 1,
+                "oldName": "test",
+                "newName": "test2",
+                "createdTime": "2021-09-29T23:48:46Z"
+            },
+            {
+                "id": 190,
+                "oldName": "Test Kits and Starter Kits",
+                "newName": "Test Kits",
+                "createdTime": "2021-10-19T22:27:31Z"
+            },
+            {
+                "id": 193,
+                "oldName": "Thyroid Care",
+                "newName": "Thyroid Problems",
+                "createdTime": "2021-10-19T22:27:34Z"
+            },
+            {
+                "id": 16,
+                "oldName": "Tofu Litter",
+                "newName": "Tofu",
+                "createdTime": "2021-10-15T01:51:46Z"
+            },
+            {
+                "id": 196,
+                "oldName": "Toilet Training",
+                "newName": "Training Pads and Nappies",
+                "createdTime": "2021-10-19T22:27:36Z"
+            },
+            {
+                "id": 199,
+                "oldName": "Toothbrush",
+                "newName": "Toothbrushes",
+                "createdTime": "2021-10-19T22:27:38Z"
+            },
+            {
+                "id": 202,
+                "oldName": "Toothpate",
+                "newName": "Toothpastes",
+                "createdTime": "2021-10-19T22:27:41Z"
+            },
+            {
+                "id": 247,
+                "oldName": "Toys and Perches",
+                "newName": "Perches and Toys",
+                "createdTime": "2022-01-10T03:33:39Z"
+            },
+            {
+                "id": 34,
+                "oldName": "Trays",
+                "newName": "Litter Boxes",
+                "createdTime": "2021-10-15T01:57:45Z"
+            },
+            {
+                "id": 205,
+                "oldName": "Tuna",
+                "newName": "Fish Protein",
+                "createdTime": "2021-10-19T22:27:42Z"
+            },
+            {
+                "id": 208,
+                "oldName": "Urinary",
+                "newName": "Urinary Problems",
+                "createdTime": "2021-10-19T22:27:45Z"
+            },
+            {
+                "id": 211,
+                "oldName": "Venison Flavour",
+                "newName": "Venison",
+                "createdTime": "2021-10-19T22:27:47Z"
+            },
+            {
+                "id": 214,
+                "oldName": "Waste Control",
+                "newName": "Poop Bags and Scoops",
+                "createdTime": "2021-10-19T22:27:49Z"
+            },
+            {
+                "id": 217,
+                "oldName": "Water Free",
+                "newName": "Waterless",
+                "createdTime": "2021-10-19T22:27:51Z"
+            },
+            {
+                "id": 220,
+                "oldName": "Weight Control",
+                "newName": "Overweight",
+                "createdTime": "2021-10-19T22:27:53Z"
+            },
+            {
+                "id": 223,
+                "oldName": "White Coats",
+                "newName": "Coats",
+                "createdTime": "2021-10-19T22:27:56Z"
+            },
+            {
+                "id": 31,
+                "oldName": "Wood Litter",
+                "newName": "Wood",
+                "createdTime": "2021-10-15T01:52:21Z"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "productId": "ziwi-peak-dry-dog-food-lamb",
+        "numberOfRatings": 15,
+        "numberOfZeroStars": 0,
+        "numberOfOneStars": 0,
+        "numberOfTwoStars": 0,
+        "numberOfThreeStars": 1,
+        "numberOfFourStars": 1,
+        "numberOfFiveStars": 13,
+        "averageQuality": 5.0,
+        "averageRating": 4.8,
+        "averageValue": 3.89
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "mappings":[
+        {
+            "request": {
+                "method": "GET",
+                "url": "/product/product-tag/renamed"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product/product-renamed.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/product/category/limits"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product/category-limit.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/product/product/meta-details/:product"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product/empty-meta-detail.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/product/tag",
+                "params": {
+                    "categoryTag": "brand"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product/product-tag.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/product/seo-content",
+                "params": {
+                    "tags[0]": "Dog",
+                    "tags[1]": "Food"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product/seo-dog-food.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/product/seo-content",
+                "params": {
+                    "tags[0]": "Dog",
+                    "tags[1]": "Food",
+                    "tags[2]": "Dry Food"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "product/seo-dog-dry-food.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        }
+    ]
+}

@@ -7,4 +7,4 @@ try to mock response based on json configurations
 - [ ] POST requests
 - [ ] DELETE request 
 - [ ] Refactor project based on Golang practice
-
+- [ ] Response template render with multiple response processors

@@ -20,7 +20,7 @@
             },
             "response": {
                 "status": 200,
-                "bodyFileName": "product-videos-list.json",
+                "bodyFileName": "configuration/product-videos-list.json",
                 "transformers": [
                     "body-transformer"
                 ]

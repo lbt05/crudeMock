@@ -1,0 +1,49 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "products": [
+            "kazoo-collar-classic-blue",
+            "gummi-bling-dog-collar-blue",
+            "gummi-slick-dog-collar-blue"
+        ],
+        "productSkus": [
+            {
+                "product": "kazoo-collar-classic-blue",
+                "skus": [
+                    "K11117",
+                    "K11119",
+                    "K11116"
+                ],
+                "priceRange": {
+                    "min": 7.98,
+                    "max": 15.18
+                }
+            },
+            {
+                "product": "gummi-bling-dog-collar-blue",
+                "skus": [
+                    "COBLBL",
+                    "COBLBM",
+                    "COBLBS"
+                ],
+                "priceRange": {
+                    "min": 34.95,
+                    "max": 44.95
+                }
+            },
+            {
+                "product": "gummi-slick-dog-collar-blue",
+                "skus": [
+                    "COTEBM",
+                    "COTEBS",
+                    "COTEBL"
+                ],
+                "priceRange": {
+                    "min": 19.95,
+                    "max": 24.95
+                }
+            }
+        ]
+    }
+}

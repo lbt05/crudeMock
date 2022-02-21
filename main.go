@@ -36,16 +36,10 @@ func (routerConfig RouterConfiguration) generateHandler(path string) func(contex
 	var headers map[string]string
 	var requestParaMapping RequestParamMapping
 	configurations := routerConfig.Configuration[path]
-	if len(configurations) == 1 {
-		bodyFile = configurations[0].Response.BodyFileName
-		status = configurations[0].Response.Status
-		headers = configurations[0].Response.Headers
-	} else {
-		requestParaMapping = routerConfig.generateRequestParamMapping(path)
-	}
+	requestParaMapping = routerConfig.generateRequestParamMapping(path)
 
 	return func(context *gin.Context) {
-		if len(configurations) > 1 && context.Request.Method == "GET" {
+		if len(configurations) >= 1 && context.Request.Method == "GET" {
 			//can't decide util request comes
 			matchedMapping, error := requestParaMapping.getMappingWithRequestQuery(context.Request.URL.Query())
 			if error != nil {

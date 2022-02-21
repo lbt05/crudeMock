@@ -5,8 +5,7 @@
                 "method": "GET",
                 "url": "/search/articles",
                 "params": {
-                    "limit": 5,
-                    "query": ".*"
+                    "query": "dog"
                 }
             },
             "response": {
@@ -23,7 +22,29 @@
         {
             "request": {
                 "method": "GET",
-                "url": "/search/suggestions"
+                "url": "/search/articles",
+                "params": {
+                    "query": "blue colla"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "search/article-search-blue-colla.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/search/suggestions",
+                "params": {
+                    "query": "dog"
+                }
             },
             "response": {
                 "status": 200,
@@ -39,11 +60,52 @@
         {
             "request": {
                 "method": "GET",
-                "url": "/search/products"
+                "url": "/search/suggestions",
+                "params": {
+                    "query": "blue colla"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "search/suggestion-search-empty.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/search/products",
+                "params": {
+                    "query": "dog"
+                }
             },
             "response": {
                 "status": 200,
                 "bodyFileName": "search/product-search-dog.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/search/products",
+                "params": {
+                    "query": "blue colla"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "search/product-search-blue-colla.json",
                 "transformers": [
                     "body-transformer"
                 ],

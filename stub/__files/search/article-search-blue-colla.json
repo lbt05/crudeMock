@@ -1,0 +1,28 @@
+{
+    "status": "success",
+    "message": null,
+    "data": {
+        "articles": [
+            {
+                "id": "is-a-tick-collar-enough",
+                "title": "Is a tick collar enough"
+            },
+            {
+                "id": "night-walk-products",
+                "title": "Night walk products"
+            },
+            {
+                "id": "breed-guide-australian-shepherd",
+                "title": "Breed guide australian shepherd"
+            },
+            {
+                "id": "what-is-the-best-harness-for-my-dog",
+                "title": "What is the best harness for my dog"
+            },
+            {
+                "id": "dog-coat-fitting-guide",
+                "title": "Dog coat fitting guide"
+            }
+        ]
+    }
+}

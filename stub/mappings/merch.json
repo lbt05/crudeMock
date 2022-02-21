@@ -35,7 +35,7 @@
     {
       "request": {
         "method": "GET",
-        "url": "/merch/sku/effectivePrice"
+        "url": "/merch/sku/effectivePrices"
       },
       "response": {
         "status": 200,
@@ -67,7 +67,7 @@
     {
       "request": {
         "method": "GET",
-        "url": "/merch/ad/redemption"
+        "url": "/merch/ad/redemptions"
       },
       "response": {
         "status": 200,

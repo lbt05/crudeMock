@@ -178,7 +178,6 @@ func (routerConfig RouterConfiguration) generateRequestParamMapping(path string)
 		paramMapping[paramKey] = conf
 	}
 	result.ParamMapping = paramMapping
-	log.Println(result)
 	return result
 }
 

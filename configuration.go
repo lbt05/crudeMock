@@ -45,6 +45,14 @@ func readRouterConfiguration() RouterConfiguration {
 	var routerConfiguration RouterConfiguration
 	routerConfiguration.Configuration = confMappings
 	routerConfiguration.paths = getMappingKeys(confMappings)
+
+	adminConfiguration := "stub/__admin/settings.json"
+	content, ex := ioutil.ReadFile(adminConfiguration)
+	if ex == nil {
+		conf := Setting{}
+		json.Unmarshal(content, &conf)
+		routerConfiguration.Setting = conf
+	}
 	return routerConfiguration
 }
 

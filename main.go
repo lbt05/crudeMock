@@ -53,7 +53,7 @@ func (routerConfig RouterConfiguration) generateHandler(path string) func(contex
 				delay = matchedMapping.Response.FixDelay
 			}
 		}
-		delay = routerConfig.Setting.delayDistribution.getDelay(delay)
+		delay = routerConfig.Setting.DelayDistribution.getDelay(delay)
 		content, err := ioutil.ReadFile(filepath.Join("stub/__files", bodyFile))
 		if err != nil {
 			msg := context.Request.RequestURI + " file not found: " + bodyFile

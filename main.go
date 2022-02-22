@@ -2,20 +2,18 @@ package main
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"io/ioutil"
 	"log"
-	"net/url"
 	"path/filepath"
-	"sort"
 	"strings"
+	"time"
 )
 
 func main() {
 	r := gin.New()
-	routerConfiguration := readConfigurations()
+	routerConfiguration := readRouterConfiguration()
 
 	for _, path := range routerConfiguration.paths {
 		if strings.HasPrefix(path, "GET") {
@@ -23,7 +21,7 @@ func main() {
 		}
 	}
 	r.NoRoute(func(c *gin.Context) {
-		msg := c.Request.RequestURI + " page not found"
+		msg := fmt.Sprintf("%s %s page not found", c.Request.Method, c.Request.RequestURI)
 		log.Println(msg)
 		c.String(404, msg)
 	})
@@ -34,6 +32,7 @@ func (routerConfig RouterConfiguration) generateHandler(path string) func(contex
 	var bodyFile string
 	var status int
 	var headers map[string]string
+	delay := -1
 	var requestParaMapping RequestParamMapping
 	configurations := routerConfig.Configuration[path]
 	requestParaMapping = routerConfig.generateRequestParamMapping(path)
@@ -51,14 +50,15 @@ func (routerConfig RouterConfiguration) generateHandler(path string) func(contex
 				bodyFile = matchedMapping.Response.BodyFileName
 				status = matchedMapping.Response.Status
 				headers = matchedMapping.Response.Headers
+				delay = matchedMapping.Response.FixDelay
 			}
 		}
-
+		delay = routerConfig.Setting.delayDistribution.getDelay(delay)
 		content, err := ioutil.ReadFile(filepath.Join("stub/__files", bodyFile))
 		if err != nil {
 			msg := context.Request.RequestURI + " file not found: " + bodyFile
-			context.String(500, msg)
 			log.Println(msg)
+			sendResponse(delay, context.String, 500, msg)
 			return
 		} else {
 			var data map[string]interface{}
@@ -67,142 +67,17 @@ func (routerConfig RouterConfiguration) generateHandler(path string) func(contex
 				context.Header(header, value)
 			}
 			if data == nil {
-				context.String(status, string(content))
+				sendResponse(delay, context.String, status, string(content))
 			} else {
-				context.JSON(status, data)
+				sendResponse(delay, context.String, status, string(content))
 			}
 		}
 	}
 }
 
-func (mapping RequestParamMapping) getMappingWithRequestQuery(query url.Values) (*Mapping, error) {
-	queryKey := ""
-	for _, paramName := range mapping.ParamNamesInOrder {
-		queryValue := query.Get(paramName)
-		if queryValue != "" {
-			queryKey += fmt.Sprintf("%s=%v&", paramName, queryValue)
-		}
+func sendResponse(delay int, fn func(code int, format string, values ...interface{}), status int, msg string) {
+	if delay > 0 {
+		time.Sleep(time.Duration(delay) * time.Millisecond)
 	}
-	if matchedMapping, ok := mapping.ParamMapping[queryKey]; ok {
-		return &matchedMapping, nil
-	} else if mapping.StandAlone != nil {
-		return mapping.StandAlone, nil
-	}
-
-	return nil, errors.New("mapping not found")
-}
-
-func readConfigurations() RouterConfiguration {
-	mappingDir := "stub/mappings"
-	files, err := ioutil.ReadDir(mappingDir)
-	var mappings []Mapping
-	if err != nil {
-		log.Panic(err)
-	} else {
-		for _, file := range files {
-			if !file.IsDir() {
-				jsonFile, ex := ioutil.ReadFile(filepath.Join(mappingDir, file.Name()))
-
-				if ex != nil {
-					log.Panic(err)
-				} else {
-					conf := Configuration{}
-					json.Unmarshal(jsonFile, &conf)
-					for _, mapping := range conf.Mapping {
-						mappings = append(mappings, mapping)
-					}
-				}
-			}
-		}
-	}
-	confMappings := make(map[string][]Mapping)
-	for _, configuration := range mappings {
-		confMappings[configuration.Request.Method+configuration.Request.Url] = append(confMappings[configuration.Request.Method+configuration.Request.Url], configuration)
-	}
-	var routerConfiguration RouterConfiguration
-	routerConfiguration.Configuration = confMappings
-	routerConfiguration.paths = getMappingKeys(confMappings)
-	return routerConfiguration
-}
-
-func getMapKeys(myMap map[string]string) []string {
-	keys := make([]string, len(myMap))
-
-	i := 0
-	for k := range myMap {
-		keys[i] = k
-		i++
-	}
-	return keys
-}
-func getMappingKeys(myMap map[string][]Mapping) []string {
-	keys := make([]string, len(myMap))
-
-	i := 0
-	for k := range myMap {
-		keys[i] = k
-		i++
-	}
-	return keys
-}
-
-func (routerConfig RouterConfiguration) generateRequestParamMapping(path string) RequestParamMapping {
-	var result RequestParamMapping
-	paramMapping := make(map[string]Mapping)
-	paramSet := make(map[string]string)
-	configurations := routerConfig.Configuration[path]
-	for _, conf := range configurations {
-		if conf.Request.Params == nil {
-			result.StandAlone = &conf
-		}
-		for param := range conf.Request.Params {
-			paramSet[param] = param
-		}
-	}
-	params := getMapKeys(paramSet)
-	sort.Strings(params)
-	result.ParamNamesInOrder = params
-	for _, conf := range configurations {
-		paramKey := ""
-		for _, param := range params {
-			if val, ok := conf.Request.Params[param]; ok {
-				paramKey += fmt.Sprintf("%s=%v&", param, val)
-			}
-		}
-		paramMapping[paramKey] = conf
-	}
-	result.ParamMapping = paramMapping
-	return result
-}
-
-type RequestParamMapping struct {
-	StandAlone        *Mapping
-	ParamMapping      map[string]Mapping
-	ParamNamesInOrder []string
-}
-
-type RouterConfiguration struct {
-	Configuration map[string][]Mapping
-	paths         []string
-}
-
-type Configuration struct {
-	Mapping []Mapping `json:"mappings"`
-}
-
-type Mapping struct {
-	Request  RequestConf  `json:"request"`
-	Response ResponseConf `json:"response"`
-}
-
-type RequestConf struct {
-	Method string                 `json:"method"`
-	Url    string                 `json:"url"`
-	Params map[string]interface{} `json:"params"`
-}
-
-type ResponseConf struct {
-	Status       int               `json:"status"`
-	BodyFileName string            `json:"bodyFileName"`
-	Headers      map[string]string `json:"headers"`
+	fn(status, msg)
 }

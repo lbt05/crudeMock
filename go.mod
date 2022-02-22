@@ -1,4 +1,4 @@
-module lbt05.crudeMock
+module lbt05/crudeMock
 
 go 1.17
 

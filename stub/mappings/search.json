@@ -11,6 +11,7 @@
             "response": {
                 "status": 200,
                 "bodyFileName": "search/article-search-dog.json",
+                "fixedDelayMilliseconds": 200,
                 "transformers": [
                     "body-transformer"
                 ],
@@ -30,6 +31,7 @@
             "response": {
                 "status": 200,
                 "bodyFileName": "search/article-search-blue-colla.json",
+                "fixedDelayMilliseconds": 200,
                 "transformers": [
                     "body-transformer"
                 ],
@@ -49,6 +51,7 @@
             "response": {
                 "status": 200,
                 "bodyFileName": "search/suggestions-search-dog.json",
+                "fixedDelayMilliseconds": 200,
                 "transformers": [
                     "body-transformer"
                 ],
@@ -68,6 +71,7 @@
             "response": {
                 "status": 200,
                 "bodyFileName": "search/suggestion-search-empty.json",
+                "fixedDelayMilliseconds": 200,
                 "transformers": [
                     "body-transformer"
                 ],
@@ -87,6 +91,7 @@
             "response": {
                 "status": 200,
                 "bodyFileName": "search/product-search-dog.json",
+                "fixedDelayMilliseconds": 200,
                 "transformers": [
                     "body-transformer"
                 ],
@@ -106,6 +111,7 @@
             "response": {
                 "status": 200,
                 "bodyFileName": "search/product-search-blue-colla.json",
+                "fixedDelayMilliseconds": 200,
                 "transformers": [
                     "body-transformer"
                 ],

@@ -1,7 +1,8 @@
 {
   "delayDistribution": {
     "type": "lognormal",
-    "median": 90,
+    "median": 1,
     "sigma": 0.1
-  }
+  },
+  "accessLog": true
 }

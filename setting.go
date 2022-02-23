@@ -8,6 +8,7 @@ import (
 
 type Setting struct {
 	DelayDistribution DelayDistribution `json:"delayDistribution"`
+	AccessLog         bool
 }
 
 type DelayDistribution struct {

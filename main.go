@@ -12,9 +12,13 @@ import (
 )
 
 func main() {
-	r := gin.New()
 	routerConfiguration := readRouterConfiguration()
+	var r *gin.Engine
+	if routerConfiguration.Setting.AccessLog {
 
+	} else {
+
+	}
 	for _, path := range routerConfiguration.paths {
 		if strings.HasPrefix(path, "GET") {
 			r.GET(routerConfiguration.Configuration[path][0].Request.Url, routerConfiguration.generateHandler(path))

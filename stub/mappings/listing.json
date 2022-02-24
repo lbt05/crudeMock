@@ -37,6 +37,22 @@
           "Content-Type": "application/json"
         }
       }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/listing/products"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "listing/listing-default-response.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
     }
   ]
 }

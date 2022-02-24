@@ -15,8 +15,8 @@ type RouterConfiguration struct {
 	Setting       Setting
 }
 
-func readRouterConfiguration() RouterConfiguration {
-	mappingDir := "stub/mappings"
+func readRouterConfiguration(location string) RouterConfiguration {
+	mappingDir := filepath.Join(location, "stub/mappings")
 	files, err := ioutil.ReadDir(mappingDir)
 	var mappings []Mapping
 	if err != nil {
@@ -46,7 +46,7 @@ func readRouterConfiguration() RouterConfiguration {
 	routerConfiguration.Configuration = confMappings
 	routerConfiguration.paths = getMappingKeys(confMappings)
 
-	adminConfiguration := "stub/__admin/settings.json"
+	adminConfiguration := filepath.Join(location, "stub/__admin/settings.json")
 	content, ex := ioutil.ReadFile(adminConfiguration)
 	if ex == nil {
 		conf := Setting{}

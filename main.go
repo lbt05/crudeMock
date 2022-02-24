@@ -4,11 +4,12 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"log"
+	"os"
 	"strings"
 )
 
 func main() {
-	routerConfiguration := readRouterConfiguration()
+	routerConfiguration := readRouterConfiguration(os.Getenv("LOCATION"))
 	var r *gin.Engine
 	if routerConfiguration.Setting.AccessLog {
 		r = gin.Default()

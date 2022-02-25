@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	match "github.com/alexpantyukhin/go-pattern-match"
 	"github.com/gin-gonic/gin"
 	"log"
-	"strings"
 )
 
 func main() {
@@ -16,9 +16,10 @@ func main() {
 		r = gin.Default()
 	}
 	for _, path := range routerConfiguration.paths {
-		if strings.HasPrefix(path, "GET") {
-			r.GET(routerConfiguration.Configuration[path][0].Request.Url, routerConfiguration.generateGetHandler(path))
-		}
+		method, handler := routerConfiguration.generateGetHandler(path)
+		match.Match(method).
+			When("GET", r.GET(routerConfiguration.Configuration[path][0].Request.Url, handler)).
+			Result()
 	}
 	r.NoRoute(func(c *gin.Context) {
 		msg := fmt.Sprintf("%s %s page not found", c.Request.Method, c.Request.RequestURI)

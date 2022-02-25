@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-func (routerConfig RouterConfiguration) generateGetHandler(path string) func(context *gin.Context) {
+func (routerConfig RouterConfiguration) generateGetHandler(path string) (string, func(context *gin.Context)) {
 	var bodyFile string
 	var status int
 	var headers map[string]string
@@ -18,7 +18,7 @@ func (routerConfig RouterConfiguration) generateGetHandler(path string) func(con
 	configurations := routerConfig.Configuration[path]
 	requestParaMapping = routerConfig.generateRequestParamMapping(path)
 
-	return func(context *gin.Context) {
+	return configurations[0].Request.Method, func(context *gin.Context) {
 		if len(configurations) >= 1 && context.Request.Method == "GET" {
 			//can't decide util request comes
 			matchedMapping, error := requestParaMapping.getMappingWithRequestQuery(context.Request.URL.Query())

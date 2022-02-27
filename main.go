@@ -13,7 +13,7 @@ func main() {
 	if routerConfiguration.Setting.AccessLog {
 		r = gin.Default()
 	} else {
-		r = gin.Default()
+		r = gin.New()
 	}
 	for _, path := range routerConfiguration.paths {
 		method, handler := routerConfiguration.generateGetHandler(path)

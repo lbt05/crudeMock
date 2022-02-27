@@ -15,6 +15,22 @@
           "Content-Type": "application/json"
         }
       }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/recommendation/product-promotion/:sku"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "recommendation/product-promotion.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
     }
   ]
 }

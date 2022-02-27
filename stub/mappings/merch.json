@@ -111,6 +111,22 @@
           "Content-Type": "application/json"
         }
       }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/ad/availability/:sku"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/empty-ad-available.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
     }
   ]
 }

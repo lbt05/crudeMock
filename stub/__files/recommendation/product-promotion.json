@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "message": null,
+  "data": {
+    "fbtSku": "NCCC150",
+    "fbt": {
+      "id": 73444,
+      "sku": "BCRA20",
+      "recommendedSku": "NCCC150"
+    },
+    "ymalResponse": [
+      {
+        "sku": "IBOCBR15",
+        "reviewText": "It \nincludes 60% meat so I'm not wasting money on filler products, and I know I'm \nfeeding her quality food. <b>- Anna, NSW</b>"
+      },
+      {
+        "sku": "IBGFCP15",
+        "reviewText": "It's important to me that I'm giving him a healthy diet without those fillers other brands put in.<b>- Leanne, WA</b>"
+      },
+      {
+        "sku": "IBOLBR15",
+        "reviewText": "They love\nthe taste and have healthy shiny coats since changing to Instinctive Bite. <b>- \nSimon</b>"
+      }
+    ]
+  }
+}

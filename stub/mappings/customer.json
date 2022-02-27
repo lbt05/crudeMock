@@ -1,0 +1,23 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/customer/customer/",
+        "params": {
+          "email": "jay.ni@petcircle.com.au"
+        }
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "customer/myself.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
+}

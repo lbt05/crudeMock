@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "message": null,
+  "data": {
+    "customerId": 7100544,
+    "email": "jay.ni@petcircle.com.au",
+    "encryptedPassword": null,
+    "title": null,
+    "firstname": "Jay",
+    "surname": "Ni",
+    "customerSince": 1644450809000,
+    "phonenumber": "0210871636",
+    "accountBalanceInCents": 0,
+    "defaultBillingAddress": 4,
+    "defaultShippingAddress": 1,
+    "classification": "FLEXIBLE",
+    "fullName": "Jay Ni"
+  }
+}

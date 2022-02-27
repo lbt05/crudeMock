@@ -1,9 +1,10 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
-	match "github.com/alexpantyukhin/go-pattern-match"
 	"github.com/gin-gonic/gin"
+	"io/ioutil"
 	"log"
 )
 
@@ -16,14 +17,25 @@ func main() {
 		r = gin.New()
 	}
 	for _, path := range routerConfiguration.paths {
-		method, handler := routerConfiguration.generateGetHandler(path)
-		match.Match(method).
-			When("GET", r.GET(routerConfiguration.Configuration[path][0].Request.Url, handler)).
-			Result()
+		method, handler := routerConfiguration.generateHandler(path)
+		if method == "GET" {
+			r.GET(routerConfiguration.Configuration[path][0].Request.Url, handler)
+		} else if method == "POST" {
+			r.POST(routerConfiguration.Configuration[path][0].Request.Url, handler)
+		} else if method == "PUT" {
+
+		}
 	}
 	r.NoRoute(func(c *gin.Context) {
 		msg := fmt.Sprintf("%s %s page not found", c.Request.Method, c.Request.RequestURI)
 		log.Println(msg)
+		var bodyJson map[string]interface{}
+		jsonData, err := ioutil.ReadAll(c.Request.Body)
+		if err == nil {
+			json.Unmarshal(jsonData, &bodyJson)
+		}
+
+		log.Println(bodyJson)
 		c.String(404, msg)
 	})
 	r.Run(":8080")

@@ -1,0 +1,20 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "method": "GET",
+        "url": "/recommendation/product-recommended-frequency/:sku"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "recommendation/product-recommended-frequency.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
+}

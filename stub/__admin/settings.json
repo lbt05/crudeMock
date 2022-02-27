@@ -4,5 +4,5 @@
     "median": 1,
     "sigma": 0.1
   },
-  "accessLog": true
+  "accessLog": false
 }

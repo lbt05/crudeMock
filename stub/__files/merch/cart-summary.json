@@ -1,0 +1,49 @@
+{
+  "status": "success",
+  "message": null,
+  "data": {
+    "skuPrices": {
+      "BLRA20": 110.51
+    },
+    "originalTotal": 110.51,
+    "discountedTotal": 110.51,
+    "tpdApplication": {
+      "skuInfos": [],
+      "totalDiscount": 0
+    },
+    "adApplication": {
+      "skuInfos": [],
+      "totalDiscount": 0
+    },
+    "mbApplication": {
+      "skuInfos": [],
+      "totalDiscount": 0
+    },
+    "gwpApplication": {
+      "skuInfos": []
+    },
+    "tierApplication": {
+      "currentTierId": null,
+      "currentTierName": null,
+      "currentTierThreshold": null,
+      "currentTierAppliedDiscountValue": 0,
+      "nextTierId": 22,
+      "nextTierName": "Toys",
+      "nextTierThreshold": 120.00,
+      "currentTierDiscounts": null,
+      "qualifyingSkus": null,
+      "nextTierDiscounts": [
+        {
+          "categoryCode": "Category",
+          "categoryTag": "Toys",
+          "discountPercentage": 0.30,
+          "discountMaximum": 15.00
+        }
+      ]
+    },
+    "fbtApplication": {
+      "skuInfos": [],
+      "totalDiscount": 0
+    }
+  }
+}

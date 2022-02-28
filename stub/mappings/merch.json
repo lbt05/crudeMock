@@ -127,6 +127,22 @@
           "Content-Type": "application/json"
         }
       }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/merch/cartsummary"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "merch/cart-summary.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
     }
   ]
 }

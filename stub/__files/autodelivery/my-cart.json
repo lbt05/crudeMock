@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "message": "Finished retrieving the carts.",
+  "data": {
+    "cartGroups": [
+      {
+        "cartGroupHeader": {
+          "enterpriseId": 2401,
+          "cartGroupId": 23471305,
+          "cartUUID": "96be5c3c-e731-4e95-b6a2-aea0d62d78f6",
+          "customerId": 7100544,
+          "groupName": "ONCE_OFF",
+          "frequency": -1,
+          "updateTime": 1645495515000
+        },
+        "cartGroupDetails": [
+          {
+            "enterpriseId": 2401,
+            "cartGroupId": 23471305,
+            "sku": "BLRA20",
+            "unitPrice": 110.51,
+            "qty": 1,
+            "oneOff": true,
+            "updateTime": 1645495515000
+          }
+        ]
+      }
+    ]
+  }
+}

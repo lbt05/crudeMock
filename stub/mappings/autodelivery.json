@@ -15,6 +15,24 @@
                     "Content-Type": "application/json"
                 }
             }
+        },{
+            "request": {
+                "method": "GET",
+                "url": "/autodelivery/cart/getItems",
+                "params": {
+                    "customerId": "7100544"
+                }
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "autodelivery/my-cart.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
         },
         {
             "request": {

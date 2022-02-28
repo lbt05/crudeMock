@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "message": null,
+  "data": {
+    "enterpriseId": null,
+    "buysDF": null,
+    "buysDM": null,
+    "buysDT": null,
+    "buysCF": null,
+    "buysCM": null,
+    "buysCT": null,
+    "classification": "EVALUATOR",
+    "sourceClass1": null,
+    "sourceClass2": null,
+    "sourceClass3": null,
+    "sourceClass4": null,
+    "numberOfOrders": 0,
+    "totalRevenue": null,
+    "avgOrderInterval": null
+  }
+}

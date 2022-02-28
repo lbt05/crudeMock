@@ -18,6 +18,38 @@
           "Content-Type": "application/json"
         }
       }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/customer/customer/:id"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "customer/myself.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    },
+    {
+      "request": {
+        "method": "GET",
+        "url": "/customer/customer/:id/metadata"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "customer/metadata.json",
+        "transformers": [
+          "body-transformer"
+        ],
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
     }
   ]
 }

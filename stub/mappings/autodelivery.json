@@ -15,6 +15,22 @@
                     "Content-Type": "application/json"
                 }
             }
+        },
+        {
+            "request": {
+                "method": "GET",
+                "url": "/query/selectQtySumOfAutoSchedulesForCustomer"
+            },
+            "response": {
+                "status": 200,
+                "bodyFileName": "autodelivery/selectQtySumOfAutoSchedulesForCustomer.json",
+                "transformers": [
+                    "body-transformer"
+                ],
+                "headers": {
+                    "Content-Type": "application/json"
+                }
+            }
         }
     ]
 }
